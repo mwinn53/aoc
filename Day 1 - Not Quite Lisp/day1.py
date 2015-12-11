@@ -21,3 +21,22 @@
     # ))) and )())()) both result in floor -3.
 
 # To what floor do the instructions take Santa?
+
+def main():
+	floor = 0
+	f = open('input.txt', 'r')
+	
+	str = f.read()
+	
+	for i in str:
+		if i == '(':
+			floor+=1
+		elif i == ')':
+			floor-=1
+		
+		print 'Action:\t{}\t\tFloor:\t{}'.format(i,floor)
+	
+	print '\n\n***** Santa ends up on floor {} *****'.format(floor)
+	
+if __name__ == '__main__':
+    main()

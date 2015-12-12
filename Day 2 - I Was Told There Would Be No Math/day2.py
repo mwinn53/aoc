@@ -24,9 +24,6 @@
 
 def computeArea(dim = []):
 	
-	for i in range(len(dim)):
-		dim[i] = int(dim[i])
-
 	l = dim[0]
 	w = dim[1]
 	h = dim[2]
@@ -45,15 +42,19 @@ def computeArea(dim = []):
 
 def main():
 	sum = 0
-	i = 0
+	bx = 0
 	f = open('input.txt', 'r')
 	
 	for line in f:
-		i += 1
+		bx += 1
 		line = line.strip('\n')
-		line = line.strip('\n')
-		sum += computeArea(line.split('x'))
-		print 'Box {}\tSum: {}'.format(i, sum)
+		line = line.split('x')
+		
+		for i in range(len(line)):
+			line[i] = int(line[i])
+		
+		sum += computeArea(line)
+		print 'Box {}\tSum: {}'.format(bx, sum)
 	
 	print '\n\n***** The elves need {} sq ft of wrapping paper for {} boxes*****'.format(sum, i)
 	

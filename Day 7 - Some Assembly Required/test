@@ -1,0 +1,7 @@
+string = 'kg OR kf -> kh'
+
+line = 'kg OR kf -> kh'
+string = line.split(' -> ')
+dest = string[1]
+
+string = string[0].split(' ')

@@ -56,6 +56,8 @@
 
 import re
 
+
+
 #############################################################################
 def parseFile(fname):
 
@@ -115,37 +117,48 @@ def typecast(value):
     
 #############################################################################
 def recurList(circuit, result):
-
     # find result in circuit
     for row in circuit:
         if row[3] == result:
-           print 'FOUND: {}\t(Row {}) \t\t{} {} -> {}'.format(row, circuit.index(row), row[0], row[1], row[3])            
+           print 'FOUND: {}\t(Row {})'.format(row, circuit.index(row))            
            circuit.remove(row)
 
         # Recur if operand1 is not a value
-           if isinstance(row[1], str):
+           lookup = dictionary.get(row[1]) 
+           if lookup:
+               op1 = lookup
+               print '\t OP1 -- FOUND {} : {} in dictionary...'.format(row[1], lookup)
+
+           elif isinstance(row[1], str):
                print '\t RECURRING on OP1: {}...'.format(row[1])
                op1 = recurList(circuit, row[1])
+
            else:
                print '\t USING {} for OP1...'.format(row[1])
                op1 = row[1]
 
-        # Recur if operand2 (if required) is not a value
-           if row[2] == None:
-               op2 = None
+        # Recur if operand2 (if required) is not a value 
+           if row[2] != None:
+               lookup = dictionary.get(row[2]) 
+               if lookup:
+                   op2 = lookup
+                   print '\t OP2 -- FOUND {} : {} in dictionary...'.format(row[2], lookup)
 
-           else:
-               if (isinstance(row[2], str)):
+               elif (isinstance(row[2], str)):
                    print '\t RECURRING on OP2: {}...'.format(row[2])
                    op2 = recurList(circuit, row[2])
                else:
                    print '\t USING {} for OP2...'.format(row[2])
                    op2 = row[2]
+           else:
+               op2 = None
                    
         # Base case: result can be evaluated
            result = evaluate([row[0], op1, op2])
            print '\t EVALUATED {} {} {} -> {}'.format(row[0], op1, op2, result)
 
+           dictionary[row[3]] = result
+           # print '\t DICTIONARY {}'.format(dictionary)
            return result
 
 #############################################################################    
@@ -155,25 +168,28 @@ def evaluate(line):
     operand1 = line[1]
     operand2 = line[2]
 
-    print 'Evaluating {}...'.format(line)
+    ## print '\t\tEvaluating {}...'.format(line)
 
     if op == 'sto':
         return operand1
 
     elif op == 'and':
-        return operand1 & operand2
+        result = operand1 & operand2
 
     elif op == 'or':
-        return operand1 | operand2
+        result = operand1 | operand2
 
     elif op == 'not':
-        return ~ operand1
+        result = ~ operand1
 
     elif op == 'lsh':
-        return operand1 << operand2
+        result = (operand1 << operand2) & 0xFFFF # Drop the overflow
 
     elif op == 'rsh':
-        return operand1 >> operand2
+        result = operand1 >> operand2
+
+    ## print '\t\tOP: {}\tRES: {}'.format(op, result)
+    return result
 
 #############################################################################
 def main():
@@ -181,6 +197,9 @@ def main():
     file = 'input.txt'
     circuit = parseFile(file)
     result = 'a'
+    global dictionary
+
+    dictionary = {}
 
     recurList(circuit, result)
 

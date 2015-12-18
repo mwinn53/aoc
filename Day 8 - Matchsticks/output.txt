@@ -2,1205 +2,1505 @@ Python 2.7.6 (default, Nov 10 2013, 19:24:24) [MSC v.1500 64 bit (AMD64)] on win
 Type "copyright", "credits" or "license()" for more information.
 >>> ================================ RESTART ================================
 >>> 
-LINE 1
-Line1:	"sjdivfriyaaqa\xd2v\"k\"mpcu\"yyu\"en" (38)
-Line2:	sjdivfriyaaqa.v!k!mpcu!yyu!en (29)
-
-LINE 2
-Line1:	"vcqc" (6)
-Line2:	vcqc (4)
-
-LINE 3
-Line1:	"zbcwgmbpijcxu\"yins\"sfxn" (27)
-Line2:	zbcwgmbpijcxu!yins!sfxn (23)
-
-LINE 4
-Line1:	"yumngprx" (10)
-Line2:	yumngprx (8)
-
-LINE 5
-Line1:	"bbdj" (6)
-Line2:	bbdj (4)
-
-LINE 6
-Line1:	"czbggabkzo\"wsnw\"voklp\"s" (28)
-Line2:	czbggabkzo!wsnw!voklp!s (23)
-
-LINE 7
-Line1:	"acwt" (6)
-Line2:	acwt (4)
-
-LINE 8
-Line1:	"aqttwnsohbzian\"evtllfxwkog\"cunzw" (36)
-Line2:	aqttwnsohbzian!evtllfxwkog!cunzw (32)
-
-LINE 9
-Line1:	"ugvsgfv" (9)
-Line2:	ugvsgfv (7)
-
-LINE 10
-Line1:	"xlnillibxg" (12)
-Line2:	xlnillibxg (10)
-
-LINE 11
-Line1:	"kexh\"pmi" (11)
-Line2:	kexh!pmi (8)
-
-LINE 12
-Line1:	"syvugow" (9)
-Line2:	syvugow (7)
-
-LINE 13
-Line1:	"m\"ktqnw" (10)
-Line2:	m!ktqnw (7)
-
-LINE 14
-Line1:	"yrbajyndte\\rm" (16)
-Line2:	yrbajyndte~rm (13)
-
-LINE 15
-Line1:	"f\"kak\x70sn\xc4kjri" (22)
-Line2:	f!kak.sn.kjri (13)
-
-LINE 16
-Line1:	"yxthr" (7)
-Line2:	yxthr (5)
-
-LINE 17
-Line1:	"alvumfsjni\"kohg" (18)
-Line2:	alvumfsjni!kohg (15)
-
-LINE 18
-Line1:	"trajs\x5brom\xf1yoijaumkem\"\"tahlzs" (38)
-Line2:	trajs.rom.yoijaumkem!!tahlzs (28)
-
-LINE 19
-Line1:	"\"oedr\"pwdbnnrc" (18)
-Line2:	!oedr!pwdbnnrc (14)
-
-LINE 20
-Line1:	"qsmzhnx\"" (11)
-Line2:	qsmzhnx! (8)
-
-LINE 21
-Line1:	"\"msoytqimx\\tbklqz" (21)
-Line2:	!msoytqimx~tbklqz (17)
-
-LINE 22
-Line1:	"mjdfcgwdshrehgs" (17)
-Line2:	mjdfcgwdshrehgs (15)
-
-LINE 23
-Line1:	"\"rivyxahf\"" (14)
-Line2:	!rivyxahf! (10)
-
-LINE 24
-Line1:	"ciagc\x04bp" (13)
-Line2:	ciagc.p (7)
-
-LINE 25
-Line1:	"xkfc" (6)
-Line2:	xkfc (4)
-
-LINE 26
-Line1:	"xrgcripdu\x4c\xc4gszjhrvumvz\"mngbirb" (39)
-Line2:	xrgcripdu..gszjhrvumvz!mngbirb (30)
-
-LINE 27
-Line1:	"gvmae\"yiiujoqvr\"mkxmgbbut\"u" (32)
-Line2:	gvmae!yiiujoqvr!mkxmgbbut!u (27)
-
-LINE 28
-Line1:	"ih" (4)
-Line2:	ih (2)
-
-LINE 29
-Line1:	"ncrqlejehs" (12)
-Line2:	ncrqlejehs (10)
-
-LINE 30
-Line1:	"mkno\x43pcfdukmemycp" (22)
-Line2:	mkno.pcfdukmemycp (17)
-
-LINE 31
-Line1:	"uanzoqxkpsksbvdnkji\"feamp" (28)
-Line2:	uanzoqxkpsksbvdnkji!feamp (25)
-
-LINE 32
-Line1:	"axoufpnbx\\ao\x61pfj\"b" (25)
-Line2:	axoufpnbx~ao.pfj!b (18)
-
-LINE 33
-Line1:	"dz\\ztawzdjy" (14)
-Line2:	dz~ztawzdjy (11)
-
-LINE 34
-Line1:	"ihne\"enumvswypgf" (19)
-Line2:	ihne!enumvswypgf (16)
-
-LINE 35
-Line1:	"\"dgazthrphbshdo\\vuqoiy\"" (28)
-Line2:	!dgazthrphbshdo~vuqoiy! (23)
-
-LINE 36
-Line1:	"dlnmptzt\\zahwpylc\\b\"gmslrqysk" (34)
-Line2:	dlnmptzt~zahwpylc~b!gmslrqysk (29)
-
-LINE 37
-Line1:	"mhxznyzcp" (11)
-Line2:	mhxznyzcp (9)
-
-LINE 38
-Line1:	"rebr\"amvxw\x5fmbnfpkkeghlntavj" (33)
-Line2:	rebr!amvxw.mbnfpkkeghlntavj (27)
-
-LINE 39
-Line1:	"lades\x47ncgdof\"\"jmbbk" (26)
-Line2:	lades.ncgdof!!jmbbk (19)
-
-LINE 40
-Line1:	"dwxuis\xa5wdkx\\z\"admgnoddpgkt\\zs" (37)
-Line2:	dwxuis.wdkx~z!admgnoddpgkt~zs (29)
-
-LINE 41
-Line1:	"g\\k\x27qsl\x34hwfglcdxqbeclt\xca\\" (37)
-Line2:	g~k.qsl.hwfglcdxqbeclt.~ (24)
-
-LINE 42
-Line1:	"lhyjky\\m\"pvnm\\xmynpxnlhndmahjl" (35)
-Line2:	lhyjky~m!pvnm~xmynpxnlhndmahjl (30)
-
-LINE 43
-Line1:	"c\"uxabbgorrpprw\"xas\\vefkxioqpt" (35)
-Line2:	c!uxabbgorrpprw!xas~vefkxioqpt (30)
-
-LINE 44
-Line1:	"rfrvjxpevcmma\x71gtfipo" (25)
-Line2:	rfrvjxpevcmma.gtfipo (20)
-
-LINE 45
-Line1:	"fgh\"kcwoqwfnjgdlzfclprg\"q" (29)
-Line2:	fgh!kcwoqwfnjgdlzfclprg!q (25)
-
-LINE 46
-Line1:	"onxnwykrba" (12)
-Line2:	onxnwykrba (10)
-
-LINE 47
-Line1:	"hkkg\x60f\"tjzsanpvarzgkfipl" (30)
-Line2:	hkkg.!tjzsanpvarzgkfipl (23)
-
-LINE 48
-Line1:	"\"aintes\"ofq\"juiaqlqxmvpe\\a" (32)
-Line2:	!aintes!ofq!juiaqlqxmvpe~a (26)
-
-LINE 49
-Line1:	"wiyczzs\"ciwk" (15)
-Line2:	wiyczzs!ciwk (12)
-
-LINE 50
-Line1:	"mfqeu" (7)
-Line2:	mfqeu (5)
-
-LINE 51
-Line1:	"v\xe1z\x7ftzalmvdmncfivrax\\rjwq" (34)
-Line2:	v.z.tzalmvdmncfivrax~rjwq (25)
-
-LINE 52
-Line1:	"k\"vtg" (8)
-Line2:	k!vtg (5)
-
-LINE 53
-Line1:	"exhrtdugeml\xf0" (17)
-Line2:	exhrtdugeml. (12)
-
-LINE 54
-Line1:	"behnchkpld" (12)
-Line2:	behnchkpld (10)
-
-LINE 55
-Line1:	"mhgxy\"mfcrg\xc5gnp\"\"osqhj" (30)
-Line2:	mhgxy!mfcrg.gnp!!osqhj (22)
-
-LINE 56
-Line1:	"rlvjy" (7)
-Line2:	rlvjy (5)
-
-LINE 57
-Line1:	"awe" (5)
-Line2:	awe (3)
-
-LINE 58
-Line1:	"ctwy" (6)
-Line2:	ctwy (4)
-
-LINE 59
-Line1:	"vt" (4)
-Line2:	vt (2)
-
-LINE 60
-Line1:	"\x54t" (7)
-Line2:	.t (2)
-
-LINE 61
-Line1:	"zugfmmfomz" (12)
-Line2:	zugfmmfomz (10)
-
-LINE 62
-Line1:	"cv\"cvcvfaada\x04fsuqjinbfh\xa9cq\xd2c\"d" (43)
-Line2:	cv!cvcvfaada.suqjinbfh.q.!d (27)
-
-LINE 63
-Line1:	"oj" (4)
-Line2:	oj (2)
-
-LINE 64
-Line1:	"xazanf\"wbmcrn" (16)
-Line2:	xazanf!wbmcrn (13)
-
-LINE 65
-Line1:	"\\\\zkisyjpbzandqikqjqvee" (27)
-Line2:	~~zkisyjpbzandqikqjqvee (23)
-
-LINE 66
-Line1:	"dpsnbzdwnxk\\v" (16)
-Line2:	dpsnbzdwnxk~v (13)
-
-LINE 67
-Line1:	"sj\"tuupr\\oyoh" (17)
-Line2:	sj!tuupr~oyoh (13)
-
-LINE 68
-Line1:	"myvkgnw\x81q\xaaokt\\emgejbsyvxcl\\\xee" (41)
-Line2:	myvkgnw.q.okt~emgejbsyvxcl~. (28)
-
-LINE 69
-Line1:	"ejeuqvunjcirdkkpt\"nlns" (25)
-Line2:	ejeuqvunjcirdkkpt!nlns (22)
-
-LINE 70
-Line1:	"twmlvwxyvfyqqzu" (17)
-Line2:	twmlvwxyvfyqqzu (15)
-
-LINE 71
-Line1:	"\"xwtzdp\x98qkcis\"dm\\\"ep\"xyykq" (36)
-Line2:	!xwtzdp.qkcis!dm~!ep!xyykq (26)
-
-LINE 72
-Line1:	"vvcq\\expok" (13)
-Line2:	vvcq~expok (10)
-
-LINE 73
-Line1:	"wgukjfanjgpdjb" (16)
-Line2:	wgukjfanjgpdjb (14)
-
-LINE 74
-Line1:	"\"mjcjajnxy\\dcpc" (19)
-Line2:	!mjcjajnxy~dcpc (15)
-
-LINE 75
-Line1:	"wdvgnecw\\ab\x44klceduzgsvu" (29)
-Line2:	wdvgnecw~ab.klceduzgsvu (23)
-
-LINE 76
-Line1:	"dqtqkukr\"iacngufbqkdpxlwjjt" (30)
-Line2:	dqtqkukr!iacngufbqkdpxlwjjt (27)
-
-LINE 77
-Line1:	"\"xj\"\x66qofsqzkoah" (22)
-Line2:	!xj!.qofsqzkoah (15)
-
-LINE 78
-Line1:	"nptiwwsqdep" (13)
-Line2:	nptiwwsqdep (11)
-
-LINE 79
-Line1:	"gsnlxql\x30mjl" (16)
-Line2:	gsnlxql.mjl (11)
-
-LINE 80
-Line1:	"yeezwokjwrhelny\"" (19)
-Line2:	yeezwokjwrhelny! (16)
-
-LINE 81
-Line1:	"bjauamn\\izpmzqqasid" (22)
-Line2:	bjauamn~izpmzqqasid (19)
-
-LINE 82
-Line1:	"tvjdbkn\"tiziw\x82r" (21)
-Line2:	tvjdbkn!tiziw.r (15)
-
-LINE 83
-Line1:	"w" (3)
-Line2:	w (1)
-
-LINE 84
-Line1:	"xwoakbbnjnypnaa\xa9wft\"slrmoqkl" (34)
-Line2:	xwoakbbnjnypnaa.wft!slrmoqkl (28)
-
-LINE 85
-Line1:	"vwxtnlvaaasyruykgygrvpiopzygf\"vq" (35)
-Line2:	vwxtnlvaaasyruykgygrvpiopzygf!vq (32)
-
-LINE 86
-Line1:	"qdancvnvmhlmpj\\isdxs" (23)
-Line2:	qdancvnvmhlmpj~isdxs (20)
-
-LINE 87
-Line1:	"xzc\\elw" (10)
-Line2:	xzc~elw (7)
-
-LINE 88
-Line1:	"b\"wxeqvy\"qf\"g\xcaoklsucwicyw\"dovr" (39)
-Line2:	b!wxeqvy!qf!g.oklsucwicyw!dovr (30)
-
-LINE 89
-Line1:	"yomlvvjdbngz\"rly\"afr" (24)
-Line2:	yomlvvjdbngz!rly!afr (20)
-
-LINE 90
-Line1:	"bfb\"x\"aweuwbwmoa\x13\"t\"zhr" (32)
-Line2:	bfb!x!aweuwbwmoa.!t!zhr (23)
-
-LINE 91
-Line1:	"\"dmfoxb\"qvpjzzhykt\xd2\"\"ryhxi" (35)
-Line2:	!dmfoxb!qvpjzzhykt.!!ryhxi (26)
-
-LINE 92
-Line1:	"psqef\"yu\\qiflie\"\x79w" (26)
-Line2:	psqef!yu~qiflie!.w (18)
-
-LINE 93
-Line1:	"arzewkej\"lqmh\\sayyusxxo\\" (29)
-Line2:	arzewkej!lqmh~sayyusxxo~ (24)
-
-LINE 94
-Line1:	"vuvvp" (7)
-Line2:	vuvvp (5)
-
-LINE 95
-Line1:	"hc\"lg\x6bcpupsewzklai\"l" (27)
-Line2:	hc!lg.pupsewzklai!l (19)
-
-LINE 96
-Line1:	"cjdfygc\"auorqybnuqghsh\x10" (29)
-Line2:	cjdfygc!auorqybnuqghsh. (23)
-
-LINE 97
-Line1:	"j" (3)
-Line2:	j (1)
-
-LINE 98
-Line1:	"wqjexk\"eyq\\lbroqhk\\dqzsqk" (30)
-Line2:	wqjexk!eyq~lbroqhk~dqzsqk (25)
-
-LINE 99
-Line1:	"dws\"ru\"dvxfiwapif\"oqwzmle" (30)
-Line2:	dws!ru!dvxfiwapif!oqwzmle (25)
-
-LINE 100
-Line1:	"agcykg\\jt\\vzklqjvknoe" (25)
-Line2:	agcykg~jt~vzklqjvknoe (21)
-
-LINE 101
-Line1:	"kksd\"jmslja\\z\"y\\b\xaagpyojct" (34)
-Line2:	kksd!jmslja~z!y~b.gpyojct (25)
-
-LINE 102
-Line1:	"nnpipxufvbfpoz\"jno" (21)
-Line2:	nnpipxufvbfpoz!jno (18)
-
-LINE 103
-Line1:	"dtw" (5)
-Line2:	dtw (3)
-
-LINE 104
-Line1:	"xlolvtahvgqkx\\dgnhj\\spsclpcxv\\" (35)
-Line2:	xlolvtahvgqkx~dgnhj~spsclpcxv~ (30)
-
-LINE 105
-Line1:	"mxea\\mbjpi" (13)
-Line2:	mxea~mbjpi (10)
-
-LINE 106
-Line1:	"lgbotkk\"zmxh\\\\qji\"jszulnjsxkqf" (36)
-Line2:	lgbotkk!zmxh~~qji!jszulnjsxkqf (30)
-
-LINE 107
-Line1:	"lwckmhwhx\"gmftlb\x91am" (25)
-Line2:	lwckmhwhx!gmftlb.m (18)
-
-LINE 108
-Line1:	"xxdxqyxth" (11)
-Line2:	xxdxqyxth (9)
-
-LINE 109
-Line1:	"\"lmqhwkjxmvayxy" (18)
-Line2:	!lmqhwkjxmvayxy (15)
-
-LINE 110
-Line1:	"tf" (4)
-Line2:	tf (2)
-
-LINE 111
-Line1:	"qy" (4)
-Line2:	qy (2)
-
-LINE 112
-Line1:	"wdqmwxdztax\"m\"\x09\x11xdxmfwxmtqgwvf" (40)
-Line2:	wdqmwxdztax!m!..xdxmfwxmtqgwvf (30)
-
-LINE 113
-Line1:	"\xcbnazlf\"ghziknszmsrahaf" (28)
-Line2:	.nazlf!ghziknszmsrahaf (22)
-
-LINE 114
-Line1:	"e\x6aupmzhxlvwympgjjpdvo\"kylfa" (33)
-Line2:	e.upmzhxlvwympgjjpdvo!kylfa (27)
-
-LINE 115
-Line1:	"\x81vhtlillb\xactgoatva" (25)
-Line2:	.vhtlillb.tgoatva (17)
-
-LINE 116
-Line1:	"dvnlgr" (8)
-Line2:	dvnlgr (6)
-
-LINE 117
-Line1:	"f" (3)
-Line2:	f (1)
-
-LINE 118
-Line1:	"xg\xfacwizsadgeclm" (20)
-Line2:	xg.wizsadgeclm (14)
-
-LINE 119
-Line1:	"vnnrzbtw\"\\prod\\djbyppngwayy\"" (34)
-Line2:	vnnrzbtw!~prod~djbyppngwayy! (28)
-
-LINE 120
-Line1:	"lrt\xf4jahwvfz" (16)
-Line2:	lrt.jahwvfz (11)
-
-LINE 121
-Line1:	"aqpnjtom\"ymkak\\dadfybqrso\\fwv" (34)
-Line2:	aqpnjtom!ymkak~dadfybqrso~fwv (29)
-
-LINE 122
-Line1:	"gz\"aac\"mrbk\"ktommrojraqh" (29)
-Line2:	gz!aac!mrbk!ktommrojraqh (24)
-
-LINE 123
-Line1:	"wycamwoecsftepfnlcdkm" (23)
-Line2:	wycamwoecsftepfnlcdkm (21)
-
-LINE 124
-Line1:	"nrhddblbuzlqsl\x9cben" (23)
-Line2:	nrhddblbuzlqsl.n (16)
-
-LINE 125
-Line1:	"vckxhyqkmqmdseazcykrbysm" (26)
-Line2:	vckxhyqkmqmdseazcykrbysm (24)
-
-LINE 126
-Line1:	"sil\xbbtevmt\"gvrvybui\"faw\"j" (32)
-Line2:	sil.tevmt!gvrvybui!faw!j (24)
-
-LINE 127
-Line1:	"cjex\\tp\x45pzf" (17)
-Line2:	cjex~tp.pzf (11)
-
-LINE 128
-Line1:	"asjobvtxszfodgf\"ibftg" (24)
-Line2:	asjobvtxszfodgf!ibftg (21)
-
-LINE 129
-Line1:	"gkyjyjdrxdcllnh\"sjcibenrdnxv" (31)
-Line2:	gkyjyjdrxdcllnh!sjcibenrdnxv (28)
-
-LINE 130
-Line1:	"oswsdpjyxpbwnqbcpl\"yrdvs\\zq" (31)
-Line2:	oswsdpjyxpbwnqbcpl!yrdvs~zq (27)
-
-LINE 131
-Line1:	"\"\"tyowzc\\fycbp\"jbwrbvgui" (30)
-Line2:	!!tyowzc~fycbp!jbwrbvgui (24)
-
-LINE 132
-Line1:	"cbpcabqkdgzmpgcwjtrchxp" (25)
-Line2:	cbpcabqkdgzmpgcwjtrchxp (23)
-
-LINE 133
-Line1:	"iyrzfh\x45gw\"fdlfpiaap\x31xqq" (32)
-Line2:	iyrzfh.gw!fdlfpiaap.xqq (23)
-
-LINE 134
-Line1:	"evgksznidz" (12)
-Line2:	evgksznidz (10)
-
-LINE 135
-Line1:	"b\\w\\" (8)
-Line2:	b~w~ (4)
-
-LINE 136
-Line1:	"loufizbiy\x57aim\"bgk" (23)
-Line2:	loufizbiy.im!bgk (16)
-
-LINE 137
-Line1:	"qjfyk" (7)
-Line2:	qjfyk (5)
-
-LINE 138
-Line1:	"g\"anmloghvgr\x07zwqougqhdz" (29)
-Line2:	g!anmloghvgr.zwqougqhdz (23)
-
-LINE 139
-Line1:	"usbbmwcxd\\bdgg" (17)
-Line2:	usbbmwcxd~bdgg (14)
-
-LINE 140
-Line1:	"htitqcpczml" (13)
-Line2:	htitqcpczml (11)
-
-LINE 141
-Line1:	"eke\\cqvpexqqk\"to\"tqmljrpn\xe6lji\"" (39)
-Line2:	eke~cqvpexqqk!to!tqmljrpn.lji! (30)
-
-LINE 142
-Line1:	"g\xd2ifdsej" (13)
-Line2:	g.ifdsej (8)
-
-LINE 143
-Line1:	"h\"sk\"haajajpagtcqnzrfqn\xe6btzo" (35)
-Line2:	h!sk!haajajpagtcqnzrfqn.tzo (27)
-
-LINE 144
-Line1:	"wfkuffdxlvm\\cvlyzlbyunclhmpp" (31)
-Line2:	wfkuffdxlvm~cvlyzlbyunclhmpp (28)
-
-LINE 145
-Line1:	"myaavh\"spue" (14)
-Line2:	myaavh!spue (11)
-
-LINE 146
-Line1:	"hqvez\x68d\"eo\"eaioh" (23)
-Line2:	hqvez.!eo!eaioh (15)
-
-LINE 147
-Line1:	"s\"qd\"oyxxcglcdnuhk" (22)
-Line2:	s!qd!oyxxcglcdnuhk (18)
-
-LINE 148
-Line1:	"ilqvar" (8)
-Line2:	ilqvar (6)
-
-LINE 149
-Line1:	"srh" (5)
-Line2:	srh (3)
-
-LINE 150
-Line1:	"puuifxrfmpc\"bvalwi\x2blu\\" (29)
-Line2:	puuifxrfmpc!bvalwi.lu~ (22)
-
-LINE 151
-Line1:	"yywlbutufzysbncw\\nqsfbhpz\"mngjq" (35)
-Line2:	yywlbutufzysbncw~nqsfbhpz!mngjq (31)
-
-LINE 152
-Line1:	"zbl\\jfcuop" (13)
-Line2:	zbl~jfcuop (10)
-
-LINE 153
-Line1:	"hjdouiragzvxsqkreup\\" (23)
-Line2:	hjdouiragzvxsqkreup~ (20)
-
-LINE 154
-Line1:	"qi" (4)
-Line2:	qi (2)
-
-LINE 155
-Line1:	"ckx\\funlj\xa7ahi" (19)
-Line2:	ckx~funlj.hi (12)
-
-LINE 156
-Line1:	"k" (3)
-Line2:	k (1)
-
-LINE 157
-Line1:	"ufrcnh\"ajteit" (16)
-Line2:	ufrcnh!ajteit (13)
-
-LINE 158
-Line1:	"cqv\"bgjozjj\x60x\xa8yhvmdvutchjotyuz" (39)
-Line2:	cqv!bgjozjj.x.yhvmdvutchjotyuz (30)
-
-LINE 159
-Line1:	"hkuiet\"oku\x8cfhumfpasl" (26)
-Line2:	hkuiet!oku.humfpasl (19)
-
-LINE 160
-Line1:	"\"\\sbe\x4d" (13)
-Line2:	!~sbe. (6)
-
-LINE 161
-Line1:	"vhknazqt" (10)
-Line2:	vhknazqt (8)
-
-LINE 162
-Line1:	"eyyizvzcahgflvmoowvs\\jhvygci" (31)
-Line2:	eyyizvzcahgflvmoowvs~jhvygci (28)
-
-LINE 163
-Line1:	"kki\x3ewcefkgtjap\"xtpxh\"lzepoqj" (35)
-Line2:	kki.wcefkgtjap!xtpxh!lzepoqj (28)
-
-LINE 164
-Line1:	"wvtk" (6)
-Line2:	wvtk (4)
-
-LINE 165
-Line1:	"\"ynet" (8)
-Line2:	!ynet (5)
-
-LINE 166
-Line1:	"zh\\obk\"otagx\x59txfzf" (25)
-Line2:	zh~obk!otagx.txfzf (18)
-
-LINE 167
-Line1:	"ocowhxlx\xe6zqg\x63wx\\tclkhq\\vmaze" (38)
-Line2:	ocowhxlx.zqg.wx~tclkhq~vmaze (28)
-
-LINE 168
-Line1:	"w\"cf" (7)
-Line2:	w!cf (4)
-
-LINE 169
-Line1:	"qpniprnrzrnvykghqnalr" (23)
-Line2:	qpniprnrzrnvykghqnalr (21)
-
-LINE 170
-Line1:	"jctcqra\"\x05dhlydpqamorqjsijt\\xjdgt" (39)
-Line2:	jctcqra!.hlydpqamorqjsijt~xjdgt (31)
-
-LINE 171
-Line1:	"sig" (5)
-Line2:	sig (3)
-
-LINE 172
-Line1:	"qhlbidbflwxe\"xljbwls\x20vht" (30)
-Line2:	qhlbidbflwxe!xljbwls.vht (24)
-
-LINE 173
-Line1:	"irmrebfla\xefsg\"j" (20)
-Line2:	irmrebfla.sg!j (14)
-
-LINE 174
-Line1:	"nep" (5)
-Line2:	nep (3)
-
-LINE 175
-Line1:	"hjuvsqlizeqobepf" (18)
-Line2:	hjuvsqlizeqobepf (16)
-
-LINE 176
-Line1:	"guzbcdp\"obyh" (15)
-Line2:	guzbcdp!obyh (12)
-
-LINE 177
-Line1:	"\"mjagins\xf9tqykaxy\"" (24)
-Line2:	!mjagins.tqykaxy! (17)
-
-LINE 178
-Line1:	"knvsdnmtr\"zervsb" (19)
-Line2:	knvsdnmtr!zervsb (16)
-
-LINE 179
-Line1:	"hzuy" (6)
-Line2:	hzuy (4)
-
-LINE 180
-Line1:	"zza\"k\"buapb\\elm\xfeya" (26)
-Line2:	zza!k!buapb~elm.ya (18)
-
-LINE 181
-Line1:	"lrqar\"dfqwkaaqifig\"uixjsz" (29)
-Line2:	lrqar!dfqwkaaqifig!uixjsz (25)
-
-LINE 182
-Line1:	"\"azuo\x40rmnlhhluwsbbdb\x32pk\\yu\"pbcf" (42)
-Line2:	!azuo.rmnlhhluwsbbdb.pk~yu!pbcf (31)
-
-LINE 183
-Line1:	"dplkdyty" (10)
-Line2:	dplkdyty (8)
-
-LINE 184
-Line1:	"rfoyciebwlwphcycmguc" (22)
-Line2:	rfoyciebwlwphcycmguc (20)
-
-LINE 185
-Line1:	"ivnmmiemhgytmlprq\\eh" (23)
-Line2:	ivnmmiemhgytmlprq~eh (20)
-
-LINE 186
-Line1:	"lhkyzaaothfdhmbpsqd\\yyw" (26)
-Line2:	lhkyzaaothfdhmbpsqd~yyw (23)
-
-LINE 187
-Line1:	"tnlzifupcjcaj" (15)
-Line2:	tnlzifupcjcaj (13)
-
-LINE 188
-Line1:	"\\qiyirsdrfpmu\\\x15xusifaag" (30)
-Line2:	~qiyirsdrfpmu~.xusifaag (23)
-
-LINE 189
-Line1:	"\\lcomf\\s" (12)
-Line2:	~lcomf~s (8)
-
-LINE 190
-Line1:	"uramjivcirjhqcqcg" (19)
-Line2:	uramjivcirjhqcqcg (17)
-
-LINE 191
-Line1:	"kkbaklbxfxikffnuhtu\xc6t\"d" (29)
-Line2:	kkbaklbxfxikffnuhtu.t!d (23)
-
-LINE 192
-Line1:	"n\xefai" (9)
-Line2:	n.i (3)
-
-LINE 193
-Line1:	"\"toy\"bnbpevuzoc\"muywq\"gz\"grbm" (36)
-Line2:	!toy!bnbpevuzoc!muywq!gz!grbm (29)
-
-LINE 194
-Line1:	"\"muu\\wt" (11)
-Line2:	!muu~wt (7)
-
-LINE 195
-Line1:	"\\srby\"ee" (12)
-Line2:	~srby!ee (8)
-
-LINE 196
-Line1:	"erf\"gvw\"swfppf" (18)
-Line2:	erf!gvw!swfppf (14)
-
-LINE 197
-Line1:	"pbqcgtn\"iuianhcdazfvmidn\\nslhxdf" (36)
-Line2:	pbqcgtn!iuianhcdazfvmidn~nslhxdf (32)
-
-LINE 198
-Line1:	"uxbp" (6)
-Line2:	uxbp (4)
-
-LINE 199
-Line1:	"up\\mgrcyaegiwmjufn" (21)
-Line2:	up~mgrcyaegiwmjufn (18)
-
-LINE 200
-Line1:	"nulscgcewj\\dvoyvhetdegzhs\"" (30)
-Line2:	nulscgcewj~dvoyvhetdegzhs! (26)
-
-LINE 201
-Line1:	"masv\"k\\rzrb" (15)
-Line2:	masv!k~rzrb (11)
-
-LINE 202
-Line1:	"qtx\x79d\"xdxmbxrvhj" (22)
-Line2:	qtx.!xdxmbxrvhj (15)
-
-LINE 203
-Line1:	"fid\\otpkgjlh\"qgsvexrckqtn\xf4" (33)
-Line2:	fid~otpkgjlh!qgsvexrckqtn. (26)
-
-LINE 204
-Line1:	"tagzu" (7)
-Line2:	tagzu (5)
-
-LINE 205
-Line1:	"bvl\\\"noseec" (15)
-Line2:	bvl~!noseec (11)
-
-LINE 206
-Line1:	"\\xgicuuh" (11)
-Line2:	~xgicuuh (8)
-
-LINE 207
-Line1:	"w\"a\"npemf" (13)
-Line2:	w!a!npemf (9)
-
-LINE 208
-Line1:	"sxp" (5)
-Line2:	sxp (3)
-
-LINE 209
-Line1:	"nsmpktic\x8awxftscdcvijjobnq\"gjd" (35)
-Line2:	nsmpktic.wxftscdcvijjobnq!gjd (29)
-
-LINE 210
-Line1:	"uks\"\"jxvyvfezz\"aynxoev\"cuoav" (34)
-Line2:	uks!!jxvyvfezz!aynxoev!cuoav (28)
-
-LINE 211
-Line1:	"m" (3)
-Line2:	m (1)
-
-LINE 212
-Line1:	"lkvokj" (8)
-Line2:	lkvokj (6)
-
-LINE 213
-Line1:	"vkfam\"yllr\"q\x92o\x4ebecnvhshhqe\\" (38)
-Line2:	vkfam!yllr!q.o.nvhshhqe~ (24)
-
-LINE 214
-Line1:	"efdxcjkjverw" (14)
-Line2:	efdxcjkjverw (12)
-
-LINE 215
-Line1:	"lmqzadwhfdgmep\x02tzfcbgrbfekhat" (34)
-Line2:	lmqzadwhfdgmep.tzfcbgrbfekhat (29)
-
-LINE 216
-Line1:	"cpbk\x9azqegbpluczssouop\x36ztpuoxsw" (38)
-Line2:	cpbk.zqegbpluczssouop.ztpuoxsw (30)
-
-LINE 217
-Line1:	"cqwoczxdd\"erdjka" (19)
-Line2:	cqwoczxdd!erdjka (16)
-
-LINE 218
-Line1:	"cwvqnjgbw\\fxdlby" (19)
-Line2:	cwvqnjgbw~fxdlby (16)
-
-LINE 219
-Line1:	"mvtm" (6)
-Line2:	mvtm (4)
-
-LINE 220
-Line1:	"lt\"bbqzpumplkg" (17)
-Line2:	lt!bbqzpumplkg (14)
-
-LINE 221
-Line1:	"ntd\xeeuwweucnuuslqfzfq" (25)
-Line2:	ntd.uwweucnuuslqfzfq (20)
-
-LINE 222
-Line1:	"y\xabl\"dbebxjrlbmuoo\\\x1au" (30)
-Line2:	y.l!dbebxjrlbmuoo~.u (20)
-
-LINE 223
-Line1:	"qjoqx\\a" (10)
-Line2:	qjoqx~a (7)
-
-LINE 224
-Line1:	"pu\"ekdnfpmly\xbago\"" (23)
-Line2:	pu!ekdnfpmly.go! (16)
-
-LINE 225
-Line1:	"fjhhdy" (8)
-Line2:	fjhhdy (6)
-
-LINE 226
-Line1:	"arl" (5)
-Line2:	arl (3)
-
-LINE 227
-Line1:	"xcywisim\"bwuwf\"\"raepeawwjub" (32)
-Line2:	xcywisim!bwuwf!!raepeawwjub (27)
-
-LINE 228
-Line1:	"pbe" (5)
-Line2:	pbe (3)
-
-LINE 229
-Line1:	"dbnqfpzyaumxtqnd\xc5dcqrkwyop" (31)
-Line2:	dbnqfpzyaumxtqnd.qrkwyop (24)
-
-LINE 230
-Line1:	"ojv\x40vtkwgkqepm\x8bzft\\vedrry" (34)
-Line2:	ojv.vtkwgkqepm.zft~vedrry (25)
-
-LINE 231
-Line1:	"wggqkfbwqumsgajqwphjec\"mstxpwz" (33)
-Line2:	wggqkfbwqumsgajqwphjec!mstxpwz (30)
-
-LINE 232
-Line1:	"zjkbem" (8)
-Line2:	zjkbem (6)
-
-LINE 233
-Line1:	"icpfqxbelxazlls" (17)
-Line2:	icpfqxbelxazlls (15)
-
-LINE 234
-Line1:	"pvpqs\\abcmtyielugfgcv\"tjxapxqxnx" (36)
-Line2:	pvpqs~abcmtyielugfgcv!tjxapxqxnx (32)
-
-LINE 235
-Line1:	"oqddwlvmtv\"\x39lyybylfb\"jmngnpjrdw" (38)
-Line2:	oqddwlvmtv!.lyybylfb!jmngnpjrdw (31)
-
-LINE 236
-Line1:	"gisgbve" (9)
-Line2:	gisgbve (7)
-
-LINE 237
-Line1:	"\"aglg" (8)
-Line2:	!aglg (5)
-
-LINE 238
-Line1:	"y\"\"ss\xafvhxlrjv" (20)
-Line2:	y!!ss.vhxlrjv (13)
-
-LINE 239
-Line1:	"qbgqjsra" (10)
-Line2:	qbgqjsra (8)
-
-LINE 240
-Line1:	"ihshbjgqpdcljpmdwdprwloy" (26)
-Line2:	ihshbjgqpdcljpmdwdprwloy (24)
-
-LINE 241
-Line1:	"djja\\wcdn\"svkrgpqn\"uz\"hc\x43hj" (36)
-Line2:	djja~wcdn!svkrgpqn!uz!hc.hj (27)
-
-LINE 242
-Line1:	"cbjm" (6)
-Line2:	cbjm (4)
-
-LINE 243
-Line1:	"pnn" (5)
-Line2:	pnn (3)
-
-LINE 244
-Line1:	"pqvh\"noh" (11)
-Line2:	pqvh!noh (8)
-
-LINE 245
-Line1:	"\"\\fdktlp" (12)
-Line2:	!~fdktlp (8)
-
-LINE 246
-Line1:	"ncea" (6)
-Line2:	ncea (4)
-
-LINE 247
-Line1:	"pqgzphiyy" (11)
-Line2:	pqgzphiyy (9)
-
-LINE 248
-Line1:	"\xbedovhxuipaohlcvkwtxwmpz\"ckaif\"r" (38)
-Line2:	.ovhxuipaohlcvkwtxwmpz!ckaif!r (30)
-
-LINE 249
-Line1:	"arjuzbjowqciunfwgxtph\"vlhy\"n" (32)
-Line2:	arjuzbjowqciunfwgxtph!vlhy!n (28)
-
-LINE 250
-Line1:	"c" (3)
-Line2:	c (1)
-
-LINE 251
-Line1:	"nrpdxunulgudqzlhtae" (21)
-Line2:	nrpdxunulgudqzlhtae (19)
-
-LINE 252
-Line1:	"iefheu\"uru\"" (15)
-Line2:	iefheu!uru! (11)
-
-LINE 253
-Line1:	"aqijysxuijud\"np\\opbichhudil\xbesum" (38)
-Line2:	aqijysxuijud!np~opbichhudil.sum (31)
-
-LINE 254
-Line1:	"pfpevmtstl\"lde\"bzr\"vspdxs" (30)
-Line2:	pfpevmtstl!lde!bzr!vspdxs (25)
-
-LINE 255
-Line1:	"vparfbdjwvzsocpnzhp" (21)
-Line2:	vparfbdjwvzsocpnzhp (19)
-
-LINE 256
-Line1:	"g\x4ffxaarafrsjthq\\\xc1rw" (28)
-Line2:	g.xaarafrsjthq~.rw (18)
-
-LINE 257
-Line1:	"ng\\rqx\\gwpzucbh\xafl" (24)
-Line2:	ng~rqx~gwpzucbh.l (17)
-
-LINE 258
-Line1:	"rw\"nf\\dna" (13)
-Line2:	rw!nf~dna (9)
-
-LINE 259
-Line1:	"jkkeahxurxla\\g\xb3czrlsyimmwcwthr" (36)
-Line2:	jkkeahxurxla~g.zrlsyimmwcwthr (29)
-
-LINE 260
-Line1:	"twaailoypu\"oas\"kpuuyedlaw\\\xb0vzt" (38)
-Line2:	twaailoypu!oas!kpuuyedlaw~.vzt (30)
-
-LINE 261
-Line1:	"hznex\\gdiqvtugi" (18)
-Line2:	hznex~gdiqvtugi (15)
-
-LINE 262
-Line1:	"imdibsunjeswhk" (16)
-Line2:	imdibsunjeswhk (14)
-
-LINE 263
-Line1:	"ta\\icileuzpxro\"cfmv\"mzp" (28)
-Line2:	ta~icileuzpxro!cfmv!mzp (23)
-
-LINE 264
-Line1:	"coykr\x57luiysucfaflmilhlehmvzeiepo" (37)
-Line2:	coykr.luiysucfaflmilhlehmvzeiepo (32)
-
-LINE 265
-Line1:	"u\x3dfh\xd4yt" (15)
-Line2:	u.h.yt (6)
-
-LINE 266
-Line1:	"piw\x1bz\"eowy\"vfk\"wqiekw" (29)
-Line2:	piw.z!eowy!vfk!wqiekw (21)
-
-LINE 267
-Line1:	"gan\"y" (8)
-Line2:	gan!y (5)
-
-LINE 268
-Line1:	"p\"bevidoazcznr\"hddxuuq\"" (28)
-Line2:	p!bevidoazcznr!hddxuuq! (23)
-
-LINE 269
-Line1:	"bwzucczznutbxe" (16)
-Line2:	bwzucczznutbxe (14)
-
-LINE 270
-Line1:	"z\"viqgyqjisior\\iecosmjbknol" (31)
-Line2:	z!viqgyqjisior~iecosmjbknol (27)
-
-LINE 271
-Line1:	"dmlpcglcfkfsctxydjvayhymv\x3c\\gp" (35)
-Line2:	dmlpcglcfkfsctxydjvayhymv.~gp (29)
-
-LINE 272
-Line1:	"bfvkqrintbbvgfv" (17)
-Line2:	bfvkqrintbbvgfv (15)
-
-LINE 273
-Line1:	"xlzntrgdck\"cprc\xadczyarbznqmuhxyuh" (38)
-Line2:	xlzntrgdck!cprc.zyarbznqmuhxyuh (31)
-
-LINE 274
-Line1:	"uqdxnuwioc\"kdytxq\\ig" (24)
-Line2:	uqdxnuwioc!kdytxq~ig (20)
-
-LINE 275
-Line1:	"xrafmucpmfi" (13)
-Line2:	xrafmucpmfi (11)
-
-LINE 276
-Line1:	"vr\"hltmfrge" (14)
-Line2:	vr!hltmfrge (11)
-
-LINE 277
-Line1:	"eonf\"nt\\wtcnsocs" (20)
-Line2:	eonf!nt~wtcnsocs (16)
-
-LINE 278
-Line1:	"j\xb7xoslyjeyjksplkqixncgkylkw" (32)
-Line2:	j.xoslyjeyjksplkqixncgkylkw (27)
-
-LINE 279
-Line1:	"njw\"pefgfbez\x9axshdmplxzquqe" (32)
-Line2:	njw!pefgfbez.xshdmplxzquqe (26)
-
-LINE 280
-Line1:	"di\x58bvptfsafirpc" (20)
-Line2:	di.vptfsafirpc (14)
-
-LINE 281
-Line1:	"l\x1fkco" (10)
-Line2:	l.kco (5)
-
-LINE 282
-Line1:	"x" (3)
-Line2:	x (1)
-
-LINE 283
-Line1:	"mprndo\"n" (11)
-Line2:	mprndo!n (8)
-
-LINE 284
-Line1:	"psegit" (8)
-Line2:	psegit (6)
-
-LINE 285
-Line1:	"svbdnkkuuqs\"sqxu\"oqcyz\"aizashk" (35)
-Line2:	svbdnkkuuqs!sqxu!oqcyz!aizashk (30)
-
-LINE 286
-Line1:	"cwkljukxer\\\"\\nff\"esjwiyaoy" (32)
-Line2:	cwkljukxer~!~nff!esjwiyaoy (26)
-
-LINE 287
-Line1:	"ilxrkgbjjxpvhdtq\"cpiuoofdnkpp" (32)
-Line2:	ilxrkgbjjxpvhdtq!cpiuoofdnkpp (29)
-
-LINE 288
-Line1:	"hlngi\"ulxep\\qohtmqnqjb\"rkgerho" (35)
-Line2:	hlngi!ulxep~qohtmqnqjb!rkgerho (30)
-
-LINE 289
-Line1:	"gxws\"bcgm\"p" (15)
-Line2:	gxws!bcgm!p (11)
-
-LINE 290
-Line1:	"bv\"mds\\zhfusiepgrz\\b\x32fscdzz" (35)
-Line2:	bv!mds~zhfusiepgrz~b.scdzz (26)
-
-LINE 291
-Line1:	"l\xfampwtme\x69qvxnx\"\"\xc4jruuymjxrpsv" (42)
-Line2:	l.mpwtme.qvxnx!!.jruuymjxrpsv (29)
-
-LINE 292
-Line1:	"qqmxhrn" (9)
-Line2:	qqmxhrn (7)
-
-LINE 293
-Line1:	"xziq\\\x18ybyv\x9am\"neacoqjzytertisysza" (42)
-Line2:	xziq~.ybyv.m!neacoqjzytertisysza (32)
-
-LINE 294
-Line1:	"aqcbvlvcrzceeyx\\j\"\"x" (25)
-Line2:	aqcbvlvcrzceeyx~j!!x (20)
-
-LINE 295
-Line1:	"yjuhhb" (8)
-Line2:	yjuhhb (6)
-
-LINE 296
-Line1:	"\x5em\"squulpy" (16)
-Line2:	.m!squulpy (10)
-
-LINE 297
-Line1:	"dpbntplgmwb" (13)
-Line2:	dpbntplgmwb (11)
-
-LINE 298
-Line1:	"utsgfkm\\vbftjknlktpthoeo" (27)
-Line2:	utsgfkm~vbftjknlktpthoeo (24)
-
-LINE 299
-Line1:	"ccxjgiocmuhf\"ycnh" (20)
-Line2:	ccxjgiocmuhf!ycnh (17)
-
-LINE 300
-Line1:	"lltj\"kbbxi" (13)
-Line2:	lltj!kbbxi (10)
+LINE 1:
+Line1:	"sjdivfriyaaqa\xd2v\"k\"mpcu\"yyu\"en" (38 + 0)
+Line2:	sjdivfriyaaqa.v!k!mpcu!yyu!en (29 + 0)
+Difference:	9 + 0 = 9
+
+LINE 2:
+Line1:	"vcqc" (6 + 38)
+Line2:	vcqc (4 + 29)
+Difference:	2 + 9 = 11
+
+LINE 3:
+Line1:	"zbcwgmbpijcxu\"yins\"sfxn" (27 + 44)
+Line2:	zbcwgmbpijcxu!yins!sfxn (23 + 33)
+Difference:	4 + 11 = 15
+
+LINE 4:
+Line1:	"yumngprx" (10 + 71)
+Line2:	yumngprx (8 + 56)
+Difference:	2 + 15 = 17
+
+LINE 5:
+Line1:	"bbdj" (6 + 81)
+Line2:	bbdj (4 + 64)
+Difference:	2 + 17 = 19
+
+LINE 6:
+Line1:	"czbggabkzo\"wsnw\"voklp\"s" (28 + 87)
+Line2:	czbggabkzo!wsnw!voklp!s (23 + 68)
+Difference:	5 + 19 = 24
+
+LINE 7:
+Line1:	"acwt" (6 + 115)
+Line2:	acwt (4 + 91)
+Difference:	2 + 24 = 26
+
+LINE 8:
+Line1:	"aqttwnsohbzian\"evtllfxwkog\"cunzw" (36 + 121)
+Line2:	aqttwnsohbzian!evtllfxwkog!cunzw (32 + 95)
+Difference:	4 + 26 = 30
+
+LINE 9:
+Line1:	"ugvsgfv" (9 + 157)
+Line2:	ugvsgfv (7 + 127)
+Difference:	2 + 30 = 32
+
+LINE 10:
+Line1:	"xlnillibxg" (12 + 166)
+Line2:	xlnillibxg (10 + 134)
+Difference:	2 + 32 = 34
+
+LINE 11:
+Line1:	"kexh\"pmi" (11 + 178)
+Line2:	kexh!pmi (8 + 144)
+Difference:	3 + 34 = 37
+
+LINE 12:
+Line1:	"syvugow" (9 + 189)
+Line2:	syvugow (7 + 152)
+Difference:	2 + 37 = 39
+
+LINE 13:
+Line1:	"m\"ktqnw" (10 + 198)
+Line2:	m!ktqnw (7 + 159)
+Difference:	3 + 39 = 42
+
+LINE 14:
+Line1:	"yrbajyndte\\rm" (16 + 208)
+Line2:	yrbajyndte~rm (13 + 166)
+Difference:	3 + 42 = 45
+
+LINE 15:
+Line1:	"f\"kak\x70sn\xc4kjri" (22 + 224)
+Line2:	f!kak.sn.kjri (13 + 179)
+Difference:	9 + 45 = 54
+
+LINE 16:
+Line1:	"yxthr" (7 + 246)
+Line2:	yxthr (5 + 192)
+Difference:	2 + 54 = 56
+
+LINE 17:
+Line1:	"alvumfsjni\"kohg" (18 + 253)
+Line2:	alvumfsjni!kohg (15 + 197)
+Difference:	3 + 56 = 59
+
+LINE 18:
+Line1:	"trajs\x5brom\xf1yoijaumkem\"\"tahlzs" (38 + 271)
+Line2:	trajs.rom.yoijaumkem!!tahlzs (28 + 212)
+Difference:	10 + 59 = 69
+
+LINE 19:
+Line1:	"\"oedr\"pwdbnnrc" (18 + 309)
+Line2:	!oedr!pwdbnnrc (14 + 240)
+Difference:	4 + 69 = 73
+
+LINE 20:
+Line1:	"qsmzhnx\"" (11 + 327)
+Line2:	qsmzhnx! (8 + 254)
+Difference:	3 + 73 = 76
+
+LINE 21:
+Line1:	"\"msoytqimx\\tbklqz" (21 + 338)
+Line2:	!msoytqimx~tbklqz (17 + 262)
+Difference:	4 + 76 = 80
+
+LINE 22:
+Line1:	"mjdfcgwdshrehgs" (17 + 359)
+Line2:	mjdfcgwdshrehgs (15 + 279)
+Difference:	2 + 80 = 82
+
+LINE 23:
+Line1:	"\"rivyxahf\"" (14 + 376)
+Line2:	!rivyxahf! (10 + 294)
+Difference:	4 + 82 = 86
+
+LINE 24:
+Line1:	"ciagc\x04bp" (13 + 390)
+Line2:	ciagc.p (7 + 304)
+Difference:	6 + 86 = 92
+
+LINE 25:
+Line1:	"xkfc" (6 + 403)
+Line2:	xkfc (4 + 311)
+Difference:	2 + 92 = 94
+
+LINE 26:
+Line1:	"xrgcripdu\x4c\xc4gszjhrvumvz\"mngbirb" (39 + 409)
+Line2:	xrgcripdu..gszjhrvumvz!mngbirb (30 + 315)
+Difference:	9 + 94 = 103
+
+LINE 27:
+Line1:	"gvmae\"yiiujoqvr\"mkxmgbbut\"u" (32 + 448)
+Line2:	gvmae!yiiujoqvr!mkxmgbbut!u (27 + 345)
+Difference:	5 + 103 = 108
+
+LINE 28:
+Line1:	"ih" (4 + 480)
+Line2:	ih (2 + 372)
+Difference:	2 + 108 = 110
+
+LINE 29:
+Line1:	"ncrqlejehs" (12 + 484)
+Line2:	ncrqlejehs (10 + 374)
+Difference:	2 + 110 = 112
+
+LINE 30:
+Line1:	"mkno\x43pcfdukmemycp" (22 + 496)
+Line2:	mkno.pcfdukmemycp (17 + 384)
+Difference:	5 + 112 = 117
+
+LINE 31:
+Line1:	"uanzoqxkpsksbvdnkji\"feamp" (28 + 518)
+Line2:	uanzoqxkpsksbvdnkji!feamp (25 + 401)
+Difference:	3 + 117 = 120
+
+LINE 32:
+Line1:	"axoufpnbx\\ao\x61pfj\"b" (25 + 546)
+Line2:	axoufpnbx~ao.pfj!b (18 + 426)
+Difference:	7 + 120 = 127
+
+LINE 33:
+Line1:	"dz\\ztawzdjy" (14 + 571)
+Line2:	dz~ztawzdjy (11 + 444)
+Difference:	3 + 127 = 130
+
+LINE 34:
+Line1:	"ihne\"enumvswypgf" (19 + 585)
+Line2:	ihne!enumvswypgf (16 + 455)
+Difference:	3 + 130 = 133
+
+LINE 35:
+Line1:	"\"dgazthrphbshdo\\vuqoiy\"" (28 + 604)
+Line2:	!dgazthrphbshdo~vuqoiy! (23 + 471)
+Difference:	5 + 133 = 138
+
+LINE 36:
+Line1:	"dlnmptzt\\zahwpylc\\b\"gmslrqysk" (34 + 632)
+Line2:	dlnmptzt~zahwpylc~b!gmslrqysk (29 + 494)
+Difference:	5 + 138 = 143
+
+LINE 37:
+Line1:	"mhxznyzcp" (11 + 666)
+Line2:	mhxznyzcp (9 + 523)
+Difference:	2 + 143 = 145
+
+LINE 38:
+Line1:	"rebr\"amvxw\x5fmbnfpkkeghlntavj" (33 + 677)
+Line2:	rebr!amvxw.mbnfpkkeghlntavj (27 + 532)
+Difference:	6 + 145 = 151
+
+LINE 39:
+Line1:	"lades\x47ncgdof\"\"jmbbk" (26 + 710)
+Line2:	lades.ncgdof!!jmbbk (19 + 559)
+Difference:	7 + 151 = 158
+
+LINE 40:
+Line1:	"dwxuis\xa5wdkx\\z\"admgnoddpgkt\\zs" (37 + 736)
+Line2:	dwxuis.wdkx~z!admgnoddpgkt~zs (29 + 578)
+Difference:	8 + 158 = 166
+
+LINE 41:
+Line1:	"g\\k\x27qsl\x34hwfglcdxqbeclt\xca\\" (37 + 773)
+Line2:	g~k.qsl.hwfglcdxqbeclt.~ (24 + 607)
+Difference:	13 + 166 = 179
+
+LINE 42:
+Line1:	"lhyjky\\m\"pvnm\\xmynpxnlhndmahjl" (35 + 810)
+Line2:	lhyjky~m!pvnm~xmynpxnlhndmahjl (30 + 631)
+Difference:	5 + 179 = 184
+
+LINE 43:
+Line1:	"c\"uxabbgorrpprw\"xas\\vefkxioqpt" (35 + 845)
+Line2:	c!uxabbgorrpprw!xas~vefkxioqpt (30 + 661)
+Difference:	5 + 184 = 189
+
+LINE 44:
+Line1:	"rfrvjxpevcmma\x71gtfipo" (25 + 880)
+Line2:	rfrvjxpevcmma.gtfipo (20 + 691)
+Difference:	5 + 189 = 194
+
+LINE 45:
+Line1:	"fgh\"kcwoqwfnjgdlzfclprg\"q" (29 + 905)
+Line2:	fgh!kcwoqwfnjgdlzfclprg!q (25 + 711)
+Difference:	4 + 194 = 198
+
+LINE 46:
+Line1:	"onxnwykrba" (12 + 934)
+Line2:	onxnwykrba (10 + 736)
+Difference:	2 + 198 = 200
+
+LINE 47:
+Line1:	"hkkg\x60f\"tjzsanpvarzgkfipl" (30 + 946)
+Line2:	hkkg.!tjzsanpvarzgkfipl (23 + 746)
+Difference:	7 + 200 = 207
+
+LINE 48:
+Line1:	"\"aintes\"ofq\"juiaqlqxmvpe\\a" (32 + 976)
+Line2:	!aintes!ofq!juiaqlqxmvpe~a (26 + 769)
+Difference:	6 + 207 = 213
+
+LINE 49:
+Line1:	"wiyczzs\"ciwk" (15 + 1008)
+Line2:	wiyczzs!ciwk (12 + 795)
+Difference:	3 + 213 = 216
+
+LINE 50:
+Line1:	"mfqeu" (7 + 1023)
+Line2:	mfqeu (5 + 807)
+Difference:	2 + 216 = 218
+
+LINE 51:
+Line1:	"v\xe1z\x7ftzalmvdmncfivrax\\rjwq" (34 + 1030)
+Line2:	v.z.tzalmvdmncfivrax~rjwq (25 + 812)
+Difference:	9 + 218 = 227
+
+LINE 52:
+Line1:	"k\"vtg" (8 + 1064)
+Line2:	k!vtg (5 + 837)
+Difference:	3 + 227 = 230
+
+LINE 53:
+Line1:	"exhrtdugeml\xf0" (17 + 1072)
+Line2:	exhrtdugeml. (12 + 842)
+Difference:	5 + 230 = 235
+
+LINE 54:
+Line1:	"behnchkpld" (12 + 1089)
+Line2:	behnchkpld (10 + 854)
+Difference:	2 + 235 = 237
+
+LINE 55:
+Line1:	"mhgxy\"mfcrg\xc5gnp\"\"osqhj" (30 + 1101)
+Line2:	mhgxy!mfcrg.gnp!!osqhj (22 + 864)
+Difference:	8 + 237 = 245
+
+LINE 56:
+Line1:	"rlvjy" (7 + 1131)
+Line2:	rlvjy (5 + 886)
+Difference:	2 + 245 = 247
+
+LINE 57:
+Line1:	"awe" (5 + 1138)
+Line2:	awe (3 + 891)
+Difference:	2 + 247 = 249
+
+LINE 58:
+Line1:	"ctwy" (6 + 1143)
+Line2:	ctwy (4 + 894)
+Difference:	2 + 249 = 251
+
+LINE 59:
+Line1:	"vt" (4 + 1149)
+Line2:	vt (2 + 898)
+Difference:	2 + 251 = 253
+
+LINE 60:
+Line1:	"\x54t" (7 + 1153)
+Line2:	.t (2 + 900)
+Difference:	5 + 253 = 258
+
+LINE 61:
+Line1:	"zugfmmfomz" (12 + 1160)
+Line2:	zugfmmfomz (10 + 902)
+Difference:	2 + 258 = 260
+
+LINE 62:
+Line1:	"cv\"cvcvfaada\x04fsuqjinbfh\xa9cq\xd2c\"d" (43 + 1172)
+Line2:	cv!cvcvfaada.suqjinbfh.q.!d (27 + 912)
+Difference:	16 + 260 = 276
+
+LINE 63:
+Line1:	"oj" (4 + 1215)
+Line2:	oj (2 + 939)
+Difference:	2 + 276 = 278
+
+LINE 64:
+Line1:	"xazanf\"wbmcrn" (16 + 1219)
+Line2:	xazanf!wbmcrn (13 + 941)
+Difference:	3 + 278 = 281
+
+LINE 65:
+Line1:	"\\\\zkisyjpbzandqikqjqvee" (27 + 1235)
+Line2:	~~zkisyjpbzandqikqjqvee (23 + 954)
+Difference:	4 + 281 = 285
+
+LINE 66:
+Line1:	"dpsnbzdwnxk\\v" (16 + 1262)
+Line2:	dpsnbzdwnxk~v (13 + 977)
+Difference:	3 + 285 = 288
+
+LINE 67:
+Line1:	"sj\"tuupr\\oyoh" (17 + 1278)
+Line2:	sj!tuupr~oyoh (13 + 990)
+Difference:	4 + 288 = 292
+
+LINE 68:
+Line1:	"myvkgnw\x81q\xaaokt\\emgejbsyvxcl\\\xee" (41 + 1295)
+Line2:	myvkgnw.q.okt~emgejbsyvxcl~. (28 + 1003)
+Difference:	13 + 292 = 305
+
+LINE 69:
+Line1:	"ejeuqvunjcirdkkpt\"nlns" (25 + 1336)
+Line2:	ejeuqvunjcirdkkpt!nlns (22 + 1031)
+Difference:	3 + 305 = 308
+
+LINE 70:
+Line1:	"twmlvwxyvfyqqzu" (17 + 1361)
+Line2:	twmlvwxyvfyqqzu (15 + 1053)
+Difference:	2 + 308 = 310
+
+LINE 71:
+Line1:	"\"xwtzdp\x98qkcis\"dm\\\"ep\"xyykq" (36 + 1378)
+Line2:	!xwtzdp.qkcis!dm~!ep!xyykq (26 + 1068)
+Difference:	10 + 310 = 320
+
+LINE 72:
+Line1:	"vvcq\\expok" (13 + 1414)
+Line2:	vvcq~expok (10 + 1094)
+Difference:	3 + 320 = 323
+
+LINE 73:
+Line1:	"wgukjfanjgpdjb" (16 + 1427)
+Line2:	wgukjfanjgpdjb (14 + 1104)
+Difference:	2 + 323 = 325
+
+LINE 74:
+Line1:	"\"mjcjajnxy\\dcpc" (19 + 1443)
+Line2:	!mjcjajnxy~dcpc (15 + 1118)
+Difference:	4 + 325 = 329
+
+LINE 75:
+Line1:	"wdvgnecw\\ab\x44klceduzgsvu" (29 + 1462)
+Line2:	wdvgnecw~ab.klceduzgsvu (23 + 1133)
+Difference:	6 + 329 = 335
+
+LINE 76:
+Line1:	"dqtqkukr\"iacngufbqkdpxlwjjt" (30 + 1491)
+Line2:	dqtqkukr!iacngufbqkdpxlwjjt (27 + 1156)
+Difference:	3 + 335 = 338
+
+LINE 77:
+Line1:	"\"xj\"\x66qofsqzkoah" (22 + 1521)
+Line2:	!xj!.qofsqzkoah (15 + 1183)
+Difference:	7 + 338 = 345
+
+LINE 78:
+Line1:	"nptiwwsqdep" (13 + 1543)
+Line2:	nptiwwsqdep (11 + 1198)
+Difference:	2 + 345 = 347
+
+LINE 79:
+Line1:	"gsnlxql\x30mjl" (16 + 1556)
+Line2:	gsnlxql.mjl (11 + 1209)
+Difference:	5 + 347 = 352
+
+LINE 80:
+Line1:	"yeezwokjwrhelny\"" (19 + 1572)
+Line2:	yeezwokjwrhelny! (16 + 1220)
+Difference:	3 + 352 = 355
+
+LINE 81:
+Line1:	"bjauamn\\izpmzqqasid" (22 + 1591)
+Line2:	bjauamn~izpmzqqasid (19 + 1236)
+Difference:	3 + 355 = 358
+
+LINE 82:
+Line1:	"tvjdbkn\"tiziw\x82r" (21 + 1613)
+Line2:	tvjdbkn!tiziw.r (15 + 1255)
+Difference:	6 + 358 = 364
+
+LINE 83:
+Line1:	"w" (3 + 1634)
+Line2:	w (1 + 1270)
+Difference:	2 + 364 = 366
+
+LINE 84:
+Line1:	"xwoakbbnjnypnaa\xa9wft\"slrmoqkl" (34 + 1637)
+Line2:	xwoakbbnjnypnaa.wft!slrmoqkl (28 + 1271)
+Difference:	6 + 366 = 372
+
+LINE 85:
+Line1:	"vwxtnlvaaasyruykgygrvpiopzygf\"vq" (35 + 1671)
+Line2:	vwxtnlvaaasyruykgygrvpiopzygf!vq (32 + 1299)
+Difference:	3 + 372 = 375
+
+LINE 86:
+Line1:	"qdancvnvmhlmpj\\isdxs" (23 + 1706)
+Line2:	qdancvnvmhlmpj~isdxs (20 + 1331)
+Difference:	3 + 375 = 378
+
+LINE 87:
+Line1:	"xzc\\elw" (10 + 1729)
+Line2:	xzc~elw (7 + 1351)
+Difference:	3 + 378 = 381
+
+LINE 88:
+Line1:	"b\"wxeqvy\"qf\"g\xcaoklsucwicyw\"dovr" (39 + 1739)
+Line2:	b!wxeqvy!qf!g.oklsucwicyw!dovr (30 + 1358)
+Difference:	9 + 381 = 390
+
+LINE 89:
+Line1:	"yomlvvjdbngz\"rly\"afr" (24 + 1778)
+Line2:	yomlvvjdbngz!rly!afr (20 + 1388)
+Difference:	4 + 390 = 394
+
+LINE 90:
+Line1:	"bfb\"x\"aweuwbwmoa\x13\"t\"zhr" (32 + 1802)
+Line2:	bfb!x!aweuwbwmoa.!t!zhr (23 + 1408)
+Difference:	9 + 394 = 403
+
+LINE 91:
+Line1:	"\"dmfoxb\"qvpjzzhykt\xd2\"\"ryhxi" (35 + 1834)
+Line2:	!dmfoxb!qvpjzzhykt.!!ryhxi (26 + 1431)
+Difference:	9 + 403 = 412
+
+LINE 92:
+Line1:	"psqef\"yu\\qiflie\"\x79w" (26 + 1869)
+Line2:	psqef!yu~qiflie!.w (18 + 1457)
+Difference:	8 + 412 = 420
+
+LINE 93:
+Line1:	"arzewkej\"lqmh\\sayyusxxo\\" (29 + 1895)
+Line2:	arzewkej!lqmh~sayyusxxo~ (24 + 1475)
+Difference:	5 + 420 = 425
+
+LINE 94:
+Line1:	"vuvvp" (7 + 1924)
+Line2:	vuvvp (5 + 1499)
+Difference:	2 + 425 = 427
+
+LINE 95:
+Line1:	"hc\"lg\x6bcpupsewzklai\"l" (27 + 1931)
+Line2:	hc!lg.pupsewzklai!l (19 + 1504)
+Difference:	8 + 427 = 435
+
+LINE 96:
+Line1:	"cjdfygc\"auorqybnuqghsh\x10" (29 + 1958)
+Line2:	cjdfygc!auorqybnuqghsh. (23 + 1523)
+Difference:	6 + 435 = 441
+
+LINE 97:
+Line1:	"j" (3 + 1987)
+Line2:	j (1 + 1546)
+Difference:	2 + 441 = 443
+
+LINE 98:
+Line1:	"wqjexk\"eyq\\lbroqhk\\dqzsqk" (30 + 1990)
+Line2:	wqjexk!eyq~lbroqhk~dqzsqk (25 + 1547)
+Difference:	5 + 443 = 448
+
+LINE 99:
+Line1:	"dws\"ru\"dvxfiwapif\"oqwzmle" (30 + 2020)
+Line2:	dws!ru!dvxfiwapif!oqwzmle (25 + 1572)
+Difference:	5 + 448 = 453
+
+LINE 100:
+Line1:	"agcykg\\jt\\vzklqjvknoe" (25 + 2050)
+Line2:	agcykg~jt~vzklqjvknoe (21 + 1597)
+Difference:	4 + 453 = 457
+
+LINE 101:
+Line1:	"kksd\"jmslja\\z\"y\\b\xaagpyojct" (34 + 2075)
+Line2:	kksd!jmslja~z!y~b.gpyojct (25 + 1618)
+Difference:	9 + 457 = 466
+
+LINE 102:
+Line1:	"nnpipxufvbfpoz\"jno" (21 + 2109)
+Line2:	nnpipxufvbfpoz!jno (18 + 1643)
+Difference:	3 + 466 = 469
+
+LINE 103:
+Line1:	"dtw" (5 + 2130)
+Line2:	dtw (3 + 1661)
+Difference:	2 + 469 = 471
+
+LINE 104:
+Line1:	"xlolvtahvgqkx\\dgnhj\\spsclpcxv\\" (35 + 2135)
+Line2:	xlolvtahvgqkx~dgnhj~spsclpcxv~ (30 + 1664)
+Difference:	5 + 471 = 476
+
+LINE 105:
+Line1:	"mxea\\mbjpi" (13 + 2170)
+Line2:	mxea~mbjpi (10 + 1694)
+Difference:	3 + 476 = 479
+
+LINE 106:
+Line1:	"lgbotkk\"zmxh\\\\qji\"jszulnjsxkqf" (36 + 2183)
+Line2:	lgbotkk!zmxh~~qji!jszulnjsxkqf (30 + 1704)
+Difference:	6 + 479 = 485
+
+LINE 107:
+Line1:	"lwckmhwhx\"gmftlb\x91am" (25 + 2219)
+Line2:	lwckmhwhx!gmftlb.m (18 + 1734)
+Difference:	7 + 485 = 492
+
+LINE 108:
+Line1:	"xxdxqyxth" (11 + 2244)
+Line2:	xxdxqyxth (9 + 1752)
+Difference:	2 + 492 = 494
+
+LINE 109:
+Line1:	"\"lmqhwkjxmvayxy" (18 + 2255)
+Line2:	!lmqhwkjxmvayxy (15 + 1761)
+Difference:	3 + 494 = 497
+
+LINE 110:
+Line1:	"tf" (4 + 2273)
+Line2:	tf (2 + 1776)
+Difference:	2 + 497 = 499
+
+LINE 111:
+Line1:	"qy" (4 + 2277)
+Line2:	qy (2 + 1778)
+Difference:	2 + 499 = 501
+
+LINE 112:
+Line1:	"wdqmwxdztax\"m\"\x09\x11xdxmfwxmtqgwvf" (40 + 2281)
+Line2:	wdqmwxdztax!m!..xdxmfwxmtqgwvf (30 + 1780)
+Difference:	10 + 501 = 511
+
+LINE 113:
+Line1:	"\xcbnazlf\"ghziknszmsrahaf" (28 + 2321)
+Line2:	.nazlf!ghziknszmsrahaf (22 + 1810)
+Difference:	6 + 511 = 517
+
+LINE 114:
+Line1:	"e\x6aupmzhxlvwympgjjpdvo\"kylfa" (33 + 2349)
+Line2:	e.upmzhxlvwympgjjpdvo!kylfa (27 + 1832)
+Difference:	6 + 517 = 523
+
+LINE 115:
+Line1:	"\x81vhtlillb\xactgoatva" (25 + 2382)
+Line2:	.vhtlillb.tgoatva (17 + 1859)
+Difference:	8 + 523 = 531
+
+LINE 116:
+Line1:	"dvnlgr" (8 + 2407)
+Line2:	dvnlgr (6 + 1876)
+Difference:	2 + 531 = 533
+
+LINE 117:
+Line1:	"f" (3 + 2415)
+Line2:	f (1 + 1882)
+Difference:	2 + 533 = 535
+
+LINE 118:
+Line1:	"xg\xfacwizsadgeclm" (20 + 2418)
+Line2:	xg.wizsadgeclm (14 + 1883)
+Difference:	6 + 535 = 541
+
+LINE 119:
+Line1:	"vnnrzbtw\"\\prod\\djbyppngwayy\"" (34 + 2438)
+Line2:	vnnrzbtw!~prod~djbyppngwayy! (28 + 1897)
+Difference:	6 + 541 = 547
+
+LINE 120:
+Line1:	"lrt\xf4jahwvfz" (16 + 2472)
+Line2:	lrt.jahwvfz (11 + 1925)
+Difference:	5 + 547 = 552
+
+LINE 121:
+Line1:	"aqpnjtom\"ymkak\\dadfybqrso\\fwv" (34 + 2488)
+Line2:	aqpnjtom!ymkak~dadfybqrso~fwv (29 + 1936)
+Difference:	5 + 552 = 557
+
+LINE 122:
+Line1:	"gz\"aac\"mrbk\"ktommrojraqh" (29 + 2522)
+Line2:	gz!aac!mrbk!ktommrojraqh (24 + 1965)
+Difference:	5 + 557 = 562
+
+LINE 123:
+Line1:	"wycamwoecsftepfnlcdkm" (23 + 2551)
+Line2:	wycamwoecsftepfnlcdkm (21 + 1989)
+Difference:	2 + 562 = 564
+
+LINE 124:
+Line1:	"nrhddblbuzlqsl\x9cben" (23 + 2574)
+Line2:	nrhddblbuzlqsl.n (16 + 2010)
+Difference:	7 + 564 = 571
+
+LINE 125:
+Line1:	"vckxhyqkmqmdseazcykrbysm" (26 + 2597)
+Line2:	vckxhyqkmqmdseazcykrbysm (24 + 2026)
+Difference:	2 + 571 = 573
+
+LINE 126:
+Line1:	"sil\xbbtevmt\"gvrvybui\"faw\"j" (32 + 2623)
+Line2:	sil.tevmt!gvrvybui!faw!j (24 + 2050)
+Difference:	8 + 573 = 581
+
+LINE 127:
+Line1:	"cjex\\tp\x45pzf" (17 + 2655)
+Line2:	cjex~tp.pzf (11 + 2074)
+Difference:	6 + 581 = 587
+
+LINE 128:
+Line1:	"asjobvtxszfodgf\"ibftg" (24 + 2672)
+Line2:	asjobvtxszfodgf!ibftg (21 + 2085)
+Difference:	3 + 587 = 590
+
+LINE 129:
+Line1:	"gkyjyjdrxdcllnh\"sjcibenrdnxv" (31 + 2696)
+Line2:	gkyjyjdrxdcllnh!sjcibenrdnxv (28 + 2106)
+Difference:	3 + 590 = 593
+
+LINE 130:
+Line1:	"oswsdpjyxpbwnqbcpl\"yrdvs\\zq" (31 + 2727)
+Line2:	oswsdpjyxpbwnqbcpl!yrdvs~zq (27 + 2134)
+Difference:	4 + 593 = 597
+
+LINE 131:
+Line1:	"\"\"tyowzc\\fycbp\"jbwrbvgui" (30 + 2758)
+Line2:	!!tyowzc~fycbp!jbwrbvgui (24 + 2161)
+Difference:	6 + 597 = 603
+
+LINE 132:
+Line1:	"cbpcabqkdgzmpgcwjtrchxp" (25 + 2788)
+Line2:	cbpcabqkdgzmpgcwjtrchxp (23 + 2185)
+Difference:	2 + 603 = 605
+
+LINE 133:
+Line1:	"iyrzfh\x45gw\"fdlfpiaap\x31xqq" (32 + 2813)
+Line2:	iyrzfh.gw!fdlfpiaap.xqq (23 + 2208)
+Difference:	9 + 605 = 614
+
+LINE 134:
+Line1:	"evgksznidz" (12 + 2845)
+Line2:	evgksznidz (10 + 2231)
+Difference:	2 + 614 = 616
+
+LINE 135:
+Line1:	"b\\w\\" (8 + 2857)
+Line2:	b~w~ (4 + 2241)
+Difference:	4 + 616 = 620
+
+LINE 136:
+Line1:	"loufizbiy\x57aim\"bgk" (23 + 2865)
+Line2:	loufizbiy.im!bgk (16 + 2245)
+Difference:	7 + 620 = 627
+
+LINE 137:
+Line1:	"qjfyk" (7 + 2888)
+Line2:	qjfyk (5 + 2261)
+Difference:	2 + 627 = 629
+
+LINE 138:
+Line1:	"g\"anmloghvgr\x07zwqougqhdz" (29 + 2895)
+Line2:	g!anmloghvgr.zwqougqhdz (23 + 2266)
+Difference:	6 + 629 = 635
+
+LINE 139:
+Line1:	"usbbmwcxd\\bdgg" (17 + 2924)
+Line2:	usbbmwcxd~bdgg (14 + 2289)
+Difference:	3 + 635 = 638
+
+LINE 140:
+Line1:	"htitqcpczml" (13 + 2941)
+Line2:	htitqcpczml (11 + 2303)
+Difference:	2 + 638 = 640
+
+LINE 141:
+Line1:	"eke\\cqvpexqqk\"to\"tqmljrpn\xe6lji\"" (39 + 2954)
+Line2:	eke~cqvpexqqk!to!tqmljrpn.lji! (30 + 2314)
+Difference:	9 + 640 = 649
+
+LINE 142:
+Line1:	"g\xd2ifdsej" (13 + 2993)
+Line2:	g.ifdsej (8 + 2344)
+Difference:	5 + 649 = 654
+
+LINE 143:
+Line1:	"h\"sk\"haajajpagtcqnzrfqn\xe6btzo" (35 + 3006)
+Line2:	h!sk!haajajpagtcqnzrfqn.tzo (27 + 2352)
+Difference:	8 + 654 = 662
+
+LINE 144:
+Line1:	"wfkuffdxlvm\\cvlyzlbyunclhmpp" (31 + 3041)
+Line2:	wfkuffdxlvm~cvlyzlbyunclhmpp (28 + 2379)
+Difference:	3 + 662 = 665
+
+LINE 145:
+Line1:	"myaavh\"spue" (14 + 3072)
+Line2:	myaavh!spue (11 + 2407)
+Difference:	3 + 665 = 668
+
+LINE 146:
+Line1:	"hqvez\x68d\"eo\"eaioh" (23 + 3086)
+Line2:	hqvez.!eo!eaioh (15 + 2418)
+Difference:	8 + 668 = 676
+
+LINE 147:
+Line1:	"s\"qd\"oyxxcglcdnuhk" (22 + 3109)
+Line2:	s!qd!oyxxcglcdnuhk (18 + 2433)
+Difference:	4 + 676 = 680
+
+LINE 148:
+Line1:	"ilqvar" (8 + 3131)
+Line2:	ilqvar (6 + 2451)
+Difference:	2 + 680 = 682
+
+LINE 149:
+Line1:	"srh" (5 + 3139)
+Line2:	srh (3 + 2457)
+Difference:	2 + 682 = 684
+
+LINE 150:
+Line1:	"puuifxrfmpc\"bvalwi\x2blu\\" (29 + 3144)
+Line2:	puuifxrfmpc!bvalwi.lu~ (22 + 2460)
+Difference:	7 + 684 = 691
+
+LINE 151:
+Line1:	"yywlbutufzysbncw\\nqsfbhpz\"mngjq" (35 + 3173)
+Line2:	yywlbutufzysbncw~nqsfbhpz!mngjq (31 + 2482)
+Difference:	4 + 691 = 695
+
+LINE 152:
+Line1:	"zbl\\jfcuop" (13 + 3208)
+Line2:	zbl~jfcuop (10 + 2513)
+Difference:	3 + 695 = 698
+
+LINE 153:
+Line1:	"hjdouiragzvxsqkreup\\" (23 + 3221)
+Line2:	hjdouiragzvxsqkreup~ (20 + 2523)
+Difference:	3 + 698 = 701
+
+LINE 154:
+Line1:	"qi" (4 + 3244)
+Line2:	qi (2 + 2543)
+Difference:	2 + 701 = 703
+
+LINE 155:
+Line1:	"ckx\\funlj\xa7ahi" (19 + 3248)
+Line2:	ckx~funlj.hi (12 + 2545)
+Difference:	7 + 703 = 710
+
+LINE 156:
+Line1:	"k" (3 + 3267)
+Line2:	k (1 + 2557)
+Difference:	2 + 710 = 712
+
+LINE 157:
+Line1:	"ufrcnh\"ajteit" (16 + 3270)
+Line2:	ufrcnh!ajteit (13 + 2558)
+Difference:	3 + 712 = 715
+
+LINE 158:
+Line1:	"cqv\"bgjozjj\x60x\xa8yhvmdvutchjotyuz" (39 + 3286)
+Line2:	cqv!bgjozjj.x.yhvmdvutchjotyuz (30 + 2571)
+Difference:	9 + 715 = 724
+
+LINE 159:
+Line1:	"hkuiet\"oku\x8cfhumfpasl" (26 + 3325)
+Line2:	hkuiet!oku.humfpasl (19 + 2601)
+Difference:	7 + 724 = 731
+
+LINE 160:
+Line1:	"\"\\sbe\x4d" (13 + 3351)
+Line2:	!~sbe. (6 + 2620)
+Difference:	7 + 731 = 738
+
+LINE 161:
+Line1:	"vhknazqt" (10 + 3364)
+Line2:	vhknazqt (8 + 2626)
+Difference:	2 + 738 = 740
+
+LINE 162:
+Line1:	"eyyizvzcahgflvmoowvs\\jhvygci" (31 + 3374)
+Line2:	eyyizvzcahgflvmoowvs~jhvygci (28 + 2634)
+Difference:	3 + 740 = 743
+
+LINE 163:
+Line1:	"kki\x3ewcefkgtjap\"xtpxh\"lzepoqj" (35 + 3405)
+Line2:	kki.wcefkgtjap!xtpxh!lzepoqj (28 + 2662)
+Difference:	7 + 743 = 750
+
+LINE 164:
+Line1:	"wvtk" (6 + 3440)
+Line2:	wvtk (4 + 2690)
+Difference:	2 + 750 = 752
+
+LINE 165:
+Line1:	"\"ynet" (8 + 3446)
+Line2:	!ynet (5 + 2694)
+Difference:	3 + 752 = 755
+
+LINE 166:
+Line1:	"zh\\obk\"otagx\x59txfzf" (25 + 3454)
+Line2:	zh~obk!otagx.txfzf (18 + 2699)
+Difference:	7 + 755 = 762
+
+LINE 167:
+Line1:	"ocowhxlx\xe6zqg\x63wx\\tclkhq\\vmaze" (38 + 3479)
+Line2:	ocowhxlx.zqg.wx~tclkhq~vmaze (28 + 2717)
+Difference:	10 + 762 = 772
+
+LINE 168:
+Line1:	"w\"cf" (7 + 3517)
+Line2:	w!cf (4 + 2745)
+Difference:	3 + 772 = 775
+
+LINE 169:
+Line1:	"qpniprnrzrnvykghqnalr" (23 + 3524)
+Line2:	qpniprnrzrnvykghqnalr (21 + 2749)
+Difference:	2 + 775 = 777
+
+LINE 170:
+Line1:	"jctcqra\"\x05dhlydpqamorqjsijt\\xjdgt" (39 + 3547)
+Line2:	jctcqra!.hlydpqamorqjsijt~xjdgt (31 + 2770)
+Difference:	8 + 777 = 785
+
+LINE 171:
+Line1:	"sig" (5 + 3586)
+Line2:	sig (3 + 2801)
+Difference:	2 + 785 = 787
+
+LINE 172:
+Line1:	"qhlbidbflwxe\"xljbwls\x20vht" (30 + 3591)
+Line2:	qhlbidbflwxe!xljbwls.vht (24 + 2804)
+Difference:	6 + 787 = 793
+
+LINE 173:
+Line1:	"irmrebfla\xefsg\"j" (20 + 3621)
+Line2:	irmrebfla.sg!j (14 + 2828)
+Difference:	6 + 793 = 799
+
+LINE 174:
+Line1:	"nep" (5 + 3641)
+Line2:	nep (3 + 2842)
+Difference:	2 + 799 = 801
+
+LINE 175:
+Line1:	"hjuvsqlizeqobepf" (18 + 3646)
+Line2:	hjuvsqlizeqobepf (16 + 2845)
+Difference:	2 + 801 = 803
+
+LINE 176:
+Line1:	"guzbcdp\"obyh" (15 + 3664)
+Line2:	guzbcdp!obyh (12 + 2861)
+Difference:	3 + 803 = 806
+
+LINE 177:
+Line1:	"\"mjagins\xf9tqykaxy\"" (24 + 3679)
+Line2:	!mjagins.tqykaxy! (17 + 2873)
+Difference:	7 + 806 = 813
+
+LINE 178:
+Line1:	"knvsdnmtr\"zervsb" (19 + 3703)
+Line2:	knvsdnmtr!zervsb (16 + 2890)
+Difference:	3 + 813 = 816
+
+LINE 179:
+Line1:	"hzuy" (6 + 3722)
+Line2:	hzuy (4 + 2906)
+Difference:	2 + 816 = 818
+
+LINE 180:
+Line1:	"zza\"k\"buapb\\elm\xfeya" (26 + 3728)
+Line2:	zza!k!buapb~elm.ya (18 + 2910)
+Difference:	8 + 818 = 826
+
+LINE 181:
+Line1:	"lrqar\"dfqwkaaqifig\"uixjsz" (29 + 3754)
+Line2:	lrqar!dfqwkaaqifig!uixjsz (25 + 2928)
+Difference:	4 + 826 = 830
+
+LINE 182:
+Line1:	"\"azuo\x40rmnlhhluwsbbdb\x32pk\\yu\"pbcf" (42 + 3783)
+Line2:	!azuo.rmnlhhluwsbbdb.pk~yu!pbcf (31 + 2953)
+Difference:	11 + 830 = 841
+
+LINE 183:
+Line1:	"dplkdyty" (10 + 3825)
+Line2:	dplkdyty (8 + 2984)
+Difference:	2 + 841 = 843
+
+LINE 184:
+Line1:	"rfoyciebwlwphcycmguc" (22 + 3835)
+Line2:	rfoyciebwlwphcycmguc (20 + 2992)
+Difference:	2 + 843 = 845
+
+LINE 185:
+Line1:	"ivnmmiemhgytmlprq\\eh" (23 + 3857)
+Line2:	ivnmmiemhgytmlprq~eh (20 + 3012)
+Difference:	3 + 845 = 848
+
+LINE 186:
+Line1:	"lhkyzaaothfdhmbpsqd\\yyw" (26 + 3880)
+Line2:	lhkyzaaothfdhmbpsqd~yyw (23 + 3032)
+Difference:	3 + 848 = 851
+
+LINE 187:
+Line1:	"tnlzifupcjcaj" (15 + 3906)
+Line2:	tnlzifupcjcaj (13 + 3055)
+Difference:	2 + 851 = 853
+
+LINE 188:
+Line1:	"\\qiyirsdrfpmu\\\x15xusifaag" (30 + 3921)
+Line2:	~qiyirsdrfpmu~.xusifaag (23 + 3068)
+Difference:	7 + 853 = 860
+
+LINE 189:
+Line1:	"\\lcomf\\s" (12 + 3951)
+Line2:	~lcomf~s (8 + 3091)
+Difference:	4 + 860 = 864
+
+LINE 190:
+Line1:	"uramjivcirjhqcqcg" (19 + 3963)
+Line2:	uramjivcirjhqcqcg (17 + 3099)
+Difference:	2 + 864 = 866
+
+LINE 191:
+Line1:	"kkbaklbxfxikffnuhtu\xc6t\"d" (29 + 3982)
+Line2:	kkbaklbxfxikffnuhtu.t!d (23 + 3116)
+Difference:	6 + 866 = 872
+
+LINE 192:
+Line1:	"n\xefai" (9 + 4011)
+Line2:	n.i (3 + 3139)
+Difference:	6 + 872 = 878
+
+LINE 193:
+Line1:	"\"toy\"bnbpevuzoc\"muywq\"gz\"grbm" (36 + 4020)
+Line2:	!toy!bnbpevuzoc!muywq!gz!grbm (29 + 3142)
+Difference:	7 + 878 = 885
+
+LINE 194:
+Line1:	"\"muu\\wt" (11 + 4056)
+Line2:	!muu~wt (7 + 3171)
+Difference:	4 + 885 = 889
+
+LINE 195:
+Line1:	"\\srby\"ee" (12 + 4067)
+Line2:	~srby!ee (8 + 3178)
+Difference:	4 + 889 = 893
+
+LINE 196:
+Line1:	"erf\"gvw\"swfppf" (18 + 4079)
+Line2:	erf!gvw!swfppf (14 + 3186)
+Difference:	4 + 893 = 897
+
+LINE 197:
+Line1:	"pbqcgtn\"iuianhcdazfvmidn\\nslhxdf" (36 + 4097)
+Line2:	pbqcgtn!iuianhcdazfvmidn~nslhxdf (32 + 3200)
+Difference:	4 + 897 = 901
+
+LINE 198:
+Line1:	"uxbp" (6 + 4133)
+Line2:	uxbp (4 + 3232)
+Difference:	2 + 901 = 903
+
+LINE 199:
+Line1:	"up\\mgrcyaegiwmjufn" (21 + 4139)
+Line2:	up~mgrcyaegiwmjufn (18 + 3236)
+Difference:	3 + 903 = 906
+
+LINE 200:
+Line1:	"nulscgcewj\\dvoyvhetdegzhs\"" (30 + 4160)
+Line2:	nulscgcewj~dvoyvhetdegzhs! (26 + 3254)
+Difference:	4 + 906 = 910
+
+LINE 201:
+Line1:	"masv\"k\\rzrb" (15 + 4190)
+Line2:	masv!k~rzrb (11 + 3280)
+Difference:	4 + 910 = 914
+
+LINE 202:
+Line1:	"qtx\x79d\"xdxmbxrvhj" (22 + 4205)
+Line2:	qtx.!xdxmbxrvhj (15 + 3291)
+Difference:	7 + 914 = 921
+
+LINE 203:
+Line1:	"fid\\otpkgjlh\"qgsvexrckqtn\xf4" (33 + 4227)
+Line2:	fid~otpkgjlh!qgsvexrckqtn. (26 + 3306)
+Difference:	7 + 921 = 928
+
+LINE 204:
+Line1:	"tagzu" (7 + 4260)
+Line2:	tagzu (5 + 3332)
+Difference:	2 + 928 = 930
+
+LINE 205:
+Line1:	"bvl\\\"noseec" (15 + 4267)
+Line2:	bvl~!noseec (11 + 3337)
+Difference:	4 + 930 = 934
+
+LINE 206:
+Line1:	"\\xgicuuh" (11 + 4282)
+Line2:	~xgicuuh (8 + 3348)
+Difference:	3 + 934 = 937
+
+LINE 207:
+Line1:	"w\"a\"npemf" (13 + 4293)
+Line2:	w!a!npemf (9 + 3356)
+Difference:	4 + 937 = 941
+
+LINE 208:
+Line1:	"sxp" (5 + 4306)
+Line2:	sxp (3 + 3365)
+Difference:	2 + 941 = 943
+
+LINE 209:
+Line1:	"nsmpktic\x8awxftscdcvijjobnq\"gjd" (35 + 4311)
+Line2:	nsmpktic.wxftscdcvijjobnq!gjd (29 + 3368)
+Difference:	6 + 943 = 949
+
+LINE 210:
+Line1:	"uks\"\"jxvyvfezz\"aynxoev\"cuoav" (34 + 4346)
+Line2:	uks!!jxvyvfezz!aynxoev!cuoav (28 + 3397)
+Difference:	6 + 949 = 955
+
+LINE 211:
+Line1:	"m" (3 + 4380)
+Line2:	m (1 + 3425)
+Difference:	2 + 955 = 957
+
+LINE 212:
+Line1:	"lkvokj" (8 + 4383)
+Line2:	lkvokj (6 + 3426)
+Difference:	2 + 957 = 959
+
+LINE 213:
+Line1:	"vkfam\"yllr\"q\x92o\x4ebecnvhshhqe\\" (38 + 4391)
+Line2:	vkfam!yllr!q.o.nvhshhqe~ (24 + 3432)
+Difference:	14 + 959 = 973
+
+LINE 214:
+Line1:	"efdxcjkjverw" (14 + 4429)
+Line2:	efdxcjkjverw (12 + 3456)
+Difference:	2 + 973 = 975
+
+LINE 215:
+Line1:	"lmqzadwhfdgmep\x02tzfcbgrbfekhat" (34 + 4443)
+Line2:	lmqzadwhfdgmep.tzfcbgrbfekhat (29 + 3468)
+Difference:	5 + 975 = 980
+
+LINE 216:
+Line1:	"cpbk\x9azqegbpluczssouop\x36ztpuoxsw" (38 + 4477)
+Line2:	cpbk.zqegbpluczssouop.ztpuoxsw (30 + 3497)
+Difference:	8 + 980 = 988
+
+LINE 217:
+Line1:	"cqwoczxdd\"erdjka" (19 + 4515)
+Line2:	cqwoczxdd!erdjka (16 + 3527)
+Difference:	3 + 988 = 991
+
+LINE 218:
+Line1:	"cwvqnjgbw\\fxdlby" (19 + 4534)
+Line2:	cwvqnjgbw~fxdlby (16 + 3543)
+Difference:	3 + 991 = 994
+
+LINE 219:
+Line1:	"mvtm" (6 + 4553)
+Line2:	mvtm (4 + 3559)
+Difference:	2 + 994 = 996
+
+LINE 220:
+Line1:	"lt\"bbqzpumplkg" (17 + 4559)
+Line2:	lt!bbqzpumplkg (14 + 3563)
+Difference:	3 + 996 = 999
+
+LINE 221:
+Line1:	"ntd\xeeuwweucnuuslqfzfq" (25 + 4576)
+Line2:	ntd.uwweucnuuslqfzfq (20 + 3577)
+Difference:	5 + 999 = 1004
+
+LINE 222:
+Line1:	"y\xabl\"dbebxjrlbmuoo\\\x1au" (30 + 4601)
+Line2:	y.l!dbebxjrlbmuoo~.u (20 + 3597)
+Difference:	10 + 1004 = 1014
+
+LINE 223:
+Line1:	"qjoqx\\a" (10 + 4631)
+Line2:	qjoqx~a (7 + 3617)
+Difference:	3 + 1014 = 1017
+
+LINE 224:
+Line1:	"pu\"ekdnfpmly\xbago\"" (23 + 4641)
+Line2:	pu!ekdnfpmly.go! (16 + 3624)
+Difference:	7 + 1017 = 1024
+
+LINE 225:
+Line1:	"fjhhdy" (8 + 4664)
+Line2:	fjhhdy (6 + 3640)
+Difference:	2 + 1024 = 1026
+
+LINE 226:
+Line1:	"arl" (5 + 4672)
+Line2:	arl (3 + 3646)
+Difference:	2 + 1026 = 1028
+
+LINE 227:
+Line1:	"xcywisim\"bwuwf\"\"raepeawwjub" (32 + 4677)
+Line2:	xcywisim!bwuwf!!raepeawwjub (27 + 3649)
+Difference:	5 + 1028 = 1033
+
+LINE 228:
+Line1:	"pbe" (5 + 4709)
+Line2:	pbe (3 + 3676)
+Difference:	2 + 1033 = 1035
+
+LINE 229:
+Line1:	"dbnqfpzyaumxtqnd\xc5dcqrkwyop" (31 + 4714)
+Line2:	dbnqfpzyaumxtqnd.qrkwyop (24 + 3679)
+Difference:	7 + 1035 = 1042
+
+LINE 230:
+Line1:	"ojv\x40vtkwgkqepm\x8bzft\\vedrry" (34 + 4745)
+Line2:	ojv.vtkwgkqepm.zft~vedrry (25 + 3703)
+Difference:	9 + 1042 = 1051
+
+LINE 231:
+Line1:	"wggqkfbwqumsgajqwphjec\"mstxpwz" (33 + 4779)
+Line2:	wggqkfbwqumsgajqwphjec!mstxpwz (30 + 3728)
+Difference:	3 + 1051 = 1054
+
+LINE 232:
+Line1:	"zjkbem" (8 + 4812)
+Line2:	zjkbem (6 + 3758)
+Difference:	2 + 1054 = 1056
+
+LINE 233:
+Line1:	"icpfqxbelxazlls" (17 + 4820)
+Line2:	icpfqxbelxazlls (15 + 3764)
+Difference:	2 + 1056 = 1058
+
+LINE 234:
+Line1:	"pvpqs\\abcmtyielugfgcv\"tjxapxqxnx" (36 + 4837)
+Line2:	pvpqs~abcmtyielugfgcv!tjxapxqxnx (32 + 3779)
+Difference:	4 + 1058 = 1062
+
+LINE 235:
+Line1:	"oqddwlvmtv\"\x39lyybylfb\"jmngnpjrdw" (38 + 4873)
+Line2:	oqddwlvmtv!.lyybylfb!jmngnpjrdw (31 + 3811)
+Difference:	7 + 1062 = 1069
+
+LINE 236:
+Line1:	"gisgbve" (9 + 4911)
+Line2:	gisgbve (7 + 3842)
+Difference:	2 + 1069 = 1071
+
+LINE 237:
+Line1:	"\"aglg" (8 + 4920)
+Line2:	!aglg (5 + 3849)
+Difference:	3 + 1071 = 1074
+
+LINE 238:
+Line1:	"y\"\"ss\xafvhxlrjv" (20 + 4928)
+Line2:	y!!ss.vhxlrjv (13 + 3854)
+Difference:	7 + 1074 = 1081
+
+LINE 239:
+Line1:	"qbgqjsra" (10 + 4948)
+Line2:	qbgqjsra (8 + 3867)
+Difference:	2 + 1081 = 1083
+
+LINE 240:
+Line1:	"ihshbjgqpdcljpmdwdprwloy" (26 + 4958)
+Line2:	ihshbjgqpdcljpmdwdprwloy (24 + 3875)
+Difference:	2 + 1083 = 1085
+
+LINE 241:
+Line1:	"djja\\wcdn\"svkrgpqn\"uz\"hc\x43hj" (36 + 4984)
+Line2:	djja~wcdn!svkrgpqn!uz!hc.hj (27 + 3899)
+Difference:	9 + 1085 = 1094
+
+LINE 242:
+Line1:	"cbjm" (6 + 5020)
+Line2:	cbjm (4 + 3926)
+Difference:	2 + 1094 = 1096
+
+LINE 243:
+Line1:	"pnn" (5 + 5026)
+Line2:	pnn (3 + 3930)
+Difference:	2 + 1096 = 1098
+
+LINE 244:
+Line1:	"pqvh\"noh" (11 + 5031)
+Line2:	pqvh!noh (8 + 3933)
+Difference:	3 + 1098 = 1101
+
+LINE 245:
+Line1:	"\"\\fdktlp" (12 + 5042)
+Line2:	!~fdktlp (8 + 3941)
+Difference:	4 + 1101 = 1105
+
+LINE 246:
+Line1:	"ncea" (6 + 5054)
+Line2:	ncea (4 + 3949)
+Difference:	2 + 1105 = 1107
+
+LINE 247:
+Line1:	"pqgzphiyy" (11 + 5060)
+Line2:	pqgzphiyy (9 + 3953)
+Difference:	2 + 1107 = 1109
+
+LINE 248:
+Line1:	"\xbedovhxuipaohlcvkwtxwmpz\"ckaif\"r" (38 + 5071)
+Line2:	.ovhxuipaohlcvkwtxwmpz!ckaif!r (30 + 3962)
+Difference:	8 + 1109 = 1117
+
+LINE 249:
+Line1:	"arjuzbjowqciunfwgxtph\"vlhy\"n" (32 + 5109)
+Line2:	arjuzbjowqciunfwgxtph!vlhy!n (28 + 3992)
+Difference:	4 + 1117 = 1121
+
+LINE 250:
+Line1:	"c" (3 + 5141)
+Line2:	c (1 + 4020)
+Difference:	2 + 1121 = 1123
+
+LINE 251:
+Line1:	"nrpdxunulgudqzlhtae" (21 + 5144)
+Line2:	nrpdxunulgudqzlhtae (19 + 4021)
+Difference:	2 + 1123 = 1125
+
+LINE 252:
+Line1:	"iefheu\"uru\"" (15 + 5165)
+Line2:	iefheu!uru! (11 + 4040)
+Difference:	4 + 1125 = 1129
+
+LINE 253:
+Line1:	"aqijysxuijud\"np\\opbichhudil\xbesum" (38 + 5180)
+Line2:	aqijysxuijud!np~opbichhudil.sum (31 + 4051)
+Difference:	7 + 1129 = 1136
+
+LINE 254:
+Line1:	"pfpevmtstl\"lde\"bzr\"vspdxs" (30 + 5218)
+Line2:	pfpevmtstl!lde!bzr!vspdxs (25 + 4082)
+Difference:	5 + 1136 = 1141
+
+LINE 255:
+Line1:	"vparfbdjwvzsocpnzhp" (21 + 5248)
+Line2:	vparfbdjwvzsocpnzhp (19 + 4107)
+Difference:	2 + 1141 = 1143
+
+LINE 256:
+Line1:	"g\x4ffxaarafrsjthq\\\xc1rw" (28 + 5269)
+Line2:	g.xaarafrsjthq~.rw (18 + 4126)
+Difference:	10 + 1143 = 1153
+
+LINE 257:
+Line1:	"ng\\rqx\\gwpzucbh\xafl" (24 + 5297)
+Line2:	ng~rqx~gwpzucbh.l (17 + 4144)
+Difference:	7 + 1153 = 1160
+
+LINE 258:
+Line1:	"rw\"nf\\dna" (13 + 5321)
+Line2:	rw!nf~dna (9 + 4161)
+Difference:	4 + 1160 = 1164
+
+LINE 259:
+Line1:	"jkkeahxurxla\\g\xb3czrlsyimmwcwthr" (36 + 5334)
+Line2:	jkkeahxurxla~g.zrlsyimmwcwthr (29 + 4170)
+Difference:	7 + 1164 = 1171
+
+LINE 260:
+Line1:	"twaailoypu\"oas\"kpuuyedlaw\\\xb0vzt" (38 + 5370)
+Line2:	twaailoypu!oas!kpuuyedlaw~.vzt (30 + 4199)
+Difference:	8 + 1171 = 1179
+
+LINE 261:
+Line1:	"hznex\\gdiqvtugi" (18 + 5408)
+Line2:	hznex~gdiqvtugi (15 + 4229)
+Difference:	3 + 1179 = 1182
+
+LINE 262:
+Line1:	"imdibsunjeswhk" (16 + 5426)
+Line2:	imdibsunjeswhk (14 + 4244)
+Difference:	2 + 1182 = 1184
+
+LINE 263:
+Line1:	"ta\\icileuzpxro\"cfmv\"mzp" (28 + 5442)
+Line2:	ta~icileuzpxro!cfmv!mzp (23 + 4258)
+Difference:	5 + 1184 = 1189
+
+LINE 264:
+Line1:	"coykr\x57luiysucfaflmilhlehmvzeiepo" (37 + 5470)
+Line2:	coykr.luiysucfaflmilhlehmvzeiepo (32 + 4281)
+Difference:	5 + 1189 = 1194
+
+LINE 265:
+Line1:	"u\x3dfh\xd4yt" (15 + 5507)
+Line2:	u.h.yt (6 + 4313)
+Difference:	9 + 1194 = 1203
+
+LINE 266:
+Line1:	"piw\x1bz\"eowy\"vfk\"wqiekw" (29 + 5522)
+Line2:	piw.z!eowy!vfk!wqiekw (21 + 4319)
+Difference:	8 + 1203 = 1211
+
+LINE 267:
+Line1:	"gan\"y" (8 + 5551)
+Line2:	gan!y (5 + 4340)
+Difference:	3 + 1211 = 1214
+
+LINE 268:
+Line1:	"p\"bevidoazcznr\"hddxuuq\"" (28 + 5559)
+Line2:	p!bevidoazcznr!hddxuuq! (23 + 4345)
+Difference:	5 + 1214 = 1219
+
+LINE 269:
+Line1:	"bwzucczznutbxe" (16 + 5587)
+Line2:	bwzucczznutbxe (14 + 4368)
+Difference:	2 + 1219 = 1221
+
+LINE 270:
+Line1:	"z\"viqgyqjisior\\iecosmjbknol" (31 + 5603)
+Line2:	z!viqgyqjisior~iecosmjbknol (27 + 4382)
+Difference:	4 + 1221 = 1225
+
+LINE 271:
+Line1:	"dmlpcglcfkfsctxydjvayhymv\x3c\\gp" (35 + 5634)
+Line2:	dmlpcglcfkfsctxydjvayhymv.~gp (29 + 4409)
+Difference:	6 + 1225 = 1231
+
+LINE 272:
+Line1:	"bfvkqrintbbvgfv" (17 + 5669)
+Line2:	bfvkqrintbbvgfv (15 + 4438)
+Difference:	2 + 1231 = 1233
+
+LINE 273:
+Line1:	"xlzntrgdck\"cprc\xadczyarbznqmuhxyuh" (38 + 5686)
+Line2:	xlzntrgdck!cprc.zyarbznqmuhxyuh (31 + 4453)
+Difference:	7 + 1233 = 1240
+
+LINE 274:
+Line1:	"uqdxnuwioc\"kdytxq\\ig" (24 + 5724)
+Line2:	uqdxnuwioc!kdytxq~ig (20 + 4484)
+Difference:	4 + 1240 = 1244
+
+LINE 275:
+Line1:	"xrafmucpmfi" (13 + 5748)
+Line2:	xrafmucpmfi (11 + 4504)
+Difference:	2 + 1244 = 1246
+
+LINE 276:
+Line1:	"vr\"hltmfrge" (14 + 5761)
+Line2:	vr!hltmfrge (11 + 4515)
+Difference:	3 + 1246 = 1249
+
+LINE 277:
+Line1:	"eonf\"nt\\wtcnsocs" (20 + 5775)
+Line2:	eonf!nt~wtcnsocs (16 + 4526)
+Difference:	4 + 1249 = 1253
+
+LINE 278:
+Line1:	"j\xb7xoslyjeyjksplkqixncgkylkw" (32 + 5795)
+Line2:	j.xoslyjeyjksplkqixncgkylkw (27 + 4542)
+Difference:	5 + 1253 = 1258
+
+LINE 279:
+Line1:	"njw\"pefgfbez\x9axshdmplxzquqe" (32 + 5827)
+Line2:	njw!pefgfbez.xshdmplxzquqe (26 + 4569)
+Difference:	6 + 1258 = 1264
+
+LINE 280:
+Line1:	"di\x58bvptfsafirpc" (20 + 5859)
+Line2:	di.vptfsafirpc (14 + 4595)
+Difference:	6 + 1264 = 1270
+
+LINE 281:
+Line1:	"l\x1fkco" (10 + 5879)
+Line2:	l.kco (5 + 4609)
+Difference:	5 + 1270 = 1275
+
+LINE 282:
+Line1:	"x" (3 + 5889)
+Line2:	x (1 + 4614)
+Difference:	2 + 1275 = 1277
+
+LINE 283:
+Line1:	"mprndo\"n" (11 + 5892)
+Line2:	mprndo!n (8 + 4615)
+Difference:	3 + 1277 = 1280
+
+LINE 284:
+Line1:	"psegit" (8 + 5903)
+Line2:	psegit (6 + 4623)
+Difference:	2 + 1280 = 1282
+
+LINE 285:
+Line1:	"svbdnkkuuqs\"sqxu\"oqcyz\"aizashk" (35 + 5911)
+Line2:	svbdnkkuuqs!sqxu!oqcyz!aizashk (30 + 4629)
+Difference:	5 + 1282 = 1287
+
+LINE 286:
+Line1:	"cwkljukxer\\\"\\nff\"esjwiyaoy" (32 + 5946)
+Line2:	cwkljukxer~!~nff!esjwiyaoy (26 + 4659)
+Difference:	6 + 1287 = 1293
+
+LINE 287:
+Line1:	"ilxrkgbjjxpvhdtq\"cpiuoofdnkpp" (32 + 5978)
+Line2:	ilxrkgbjjxpvhdtq!cpiuoofdnkpp (29 + 4685)
+Difference:	3 + 1293 = 1296
+
+LINE 288:
+Line1:	"hlngi\"ulxep\\qohtmqnqjb\"rkgerho" (35 + 6010)
+Line2:	hlngi!ulxep~qohtmqnqjb!rkgerho (30 + 4714)
+Difference:	5 + 1296 = 1301
+
+LINE 289:
+Line1:	"gxws\"bcgm\"p" (15 + 6045)
+Line2:	gxws!bcgm!p (11 + 4744)
+Difference:	4 + 1301 = 1305
+
+LINE 290:
+Line1:	"bv\"mds\\zhfusiepgrz\\b\x32fscdzz" (35 + 6060)
+Line2:	bv!mds~zhfusiepgrz~b.scdzz (26 + 4755)
+Difference:	9 + 1305 = 1314
+
+LINE 291:
+Line1:	"l\xfampwtme\x69qvxnx\"\"\xc4jruuymjxrpsv" (42 + 6095)
+Line2:	l.mpwtme.qvxnx!!.jruuymjxrpsv (29 + 4781)
+Difference:	13 + 1314 = 1327
+
+LINE 292:
+Line1:	"qqmxhrn" (9 + 6137)
+Line2:	qqmxhrn (7 + 4810)
+Difference:	2 + 1327 = 1329
+
+LINE 293:
+Line1:	"xziq\\\x18ybyv\x9am\"neacoqjzytertisysza" (42 + 6146)
+Line2:	xziq~.ybyv.m!neacoqjzytertisysza (32 + 4817)
+Difference:	10 + 1329 = 1339
+
+LINE 294:
+Line1:	"aqcbvlvcrzceeyx\\j\"\"x" (25 + 6188)
+Line2:	aqcbvlvcrzceeyx~j!!x (20 + 4849)
+Difference:	5 + 1339 = 1344
+
+LINE 295:
+Line1:	"yjuhhb" (8 + 6213)
+Line2:	yjuhhb (6 + 4869)
+Difference:	2 + 1344 = 1346
+
+LINE 296:
+Line1:	"\x5em\"squulpy" (16 + 6221)
+Line2:	.m!squulpy (10 + 4875)
+Difference:	6 + 1346 = 1352
+
+LINE 297:
+Line1:	"dpbntplgmwb" (13 + 6237)
+Line2:	dpbntplgmwb (11 + 4885)
+Difference:	2 + 1352 = 1354
+
+LINE 298:
+Line1:	"utsgfkm\\vbftjknlktpthoeo" (27 + 6250)
+Line2:	utsgfkm~vbftjknlktpthoeo (24 + 4896)
+Difference:	3 + 1354 = 1357
+
+LINE 299:
+Line1:	"ccxjgiocmuhf\"ycnh" (20 + 6277)
+Line2:	ccxjgiocmuhf!ycnh (17 + 4920)
+Difference:	3 + 1357 = 1360
+
+LINE 300:
+Line1:	"lltj\"kbbxi" (13 + 6297)
+Line2:	lltj!kbbxi (10 + 4937)
+Difference:	3 + 1360 = 1363
 
 Result:	 6310 - 4947 = 1363
 >>> 

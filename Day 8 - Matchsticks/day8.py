@@ -48,32 +48,34 @@ def parseline(line):
     chars = len(line)
     
     line2 = line[1:len(line)-1]
-    line2 = re.sub(r"\\x[0-9a-fA-F]+", ".", line2)
+    line2 = re.sub(r"\\x[0-9a-fA-F]\\1", ".", line2)
     line2 = re.sub(r"\\\\", "~", line2)
     line2 = re.sub(r"\\\"", "!", line2)
 
-    bytes = len(line2)
-    print ('Line1:\t{} ({})\nLine2:\t{} ({})\n').format(line, chars, line2, bytes)
-    return(bytes, chars)
+    stripped = len(line2)
+    # print ('Line1:\t{} ({})\nLine2:\t{} ({})\n').format(line, chars, line2, bytes)
+    return(chars, stripped, line, line2)
 
 def main():
 
-    bytes = 0
-    chars = 0
+    start = 0
+    finish = 0
     i = 0
     
     f = open('input.txt', 'r')
 	
     for line in f:
         i += 1
-        print ('LINE {}').format(i)
-        (a, b) = parseline(line)
-        bytes += a
-        chars += b
+        (a, b, s1, s2) = parseline(line)
 
-    result = chars - bytes
+        # print ('LINE {}:\nLine1:\t{} ({} + {})\nLine2:\t{} ({} + {})\nDifference:\t{} + {} = {}\n').format(i, s1, a, start, s2, b, finish, a-b, start-finish, (a+start)-(b+finish))
+        print ('{} len= {}\n{} len=  {}').format(s1, a, s2, b)
+        start += a
+        finish += b
 
-    print 'Result:\t {} - {} = {}'.format(chars, bytes, result)
+    result = start - finish
+
+    print 'Result:\t {} - {} = {}'.format(start, finish, result)
 
 
 if __name__ == '__main__':

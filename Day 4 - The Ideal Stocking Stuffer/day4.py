@@ -16,6 +16,11 @@
 #
 # Your puzzle input is ckczppom.
 
+# --- Part Two ---
+#
+# Now find one that starts with six zeroes.
+
+
 import md5
 def main():
 
@@ -30,7 +35,8 @@ def main():
 
         print 'Salt {} + i {} = hash {}'.format(salt, i, hash.hexdigest())
 
-        if hash.hexdigest()[0:5] == '00000':
+        # if hash.hexdigest()[0:5] == '00000':    # Part I
+        if hash.hexdigest()[0:6] == '000000':    # Part II
             print '\n\nThe answer is: {}\t\tsalt {} + i {} = hash {}'.format(i, salt, i, hash.hexdigest())
             break
 

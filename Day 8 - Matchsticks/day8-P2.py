@@ -36,6 +36,7 @@
 # For example, given the four strings above, the total number of characters of
 # string code (2 + 5 + 10 + 6 = 23) minus the total number of characters in
 # memory for string values (0 + 3 + 7 + 1 = 11) is 23 - 11 = 12.
+#
 # --- Part Two ---
 #
 # Now, let's go the other way. In addition to finding the number of characters of code, you should now encode each
@@ -63,14 +64,14 @@ def parseline(line):
 
     line = line.strip('\n')
     chars = len(line)
-    
-    line2 = line[1:len(line)-1]
-    line2 = re.sub(r"\\x[0-9a-fA-F]\\1", ".", line2)
-    line2 = re.sub(r"\\\\", "~", line2)
-    line2 = re.sub(r"\\\"", "!", line2)
 
-    stripped = len(line2)
-    # print ('Line1:\t{} ({})\nLine2:\t{} ({})\n').format(line, chars, line2, bytes)
+    line2 = line
+    line2 = re.sub(r"\\", "!!", line2)
+    line2 = re.sub(r"\\x[0-9a-fA-F][0-9a-fA-F]", "\\\\x..", line2)
+    line2 = re.sub(r"\"", "=:", line2)
+
+    stripped = len(line2)+2
+    # print ('\tPARSELINE:    \tLine1:\t{} ({})\n\t\tLine2:\t{} ({})\n').format(line, chars, line2, stripped)
     return(chars, stripped, line, line2)
 
 def main():
@@ -85,14 +86,14 @@ def main():
         i += 1
         (a, b, s1, s2) = parseline(line)
 
-        # print ('LINE {}:\nLine1:\t{} ({} + {})\nLine2:\t{} ({} + {})\nDifference:\t{} + {} = {}\n').format(i, s1, a, start, s2, b, finish, a-b, start-finish, (a+start)-(b+finish))
-        print ('{} len= {}\n{} len=  {}').format(s1, a, s2, b)
+        print ('LINE {}:\nLine1:\t{} ({} + {})\nLine2:\t{} ({} + {})\nDifference:\t{} + {} = {}\n').format(i, s1, a, start, s2, b, finish, b-a, finish-start, (b+finish)-(a+start))
+        # print ('{} len= {}\n{} len=  {}').format(s1, a, s2, b)
         start += a
         finish += b
 
-    result = start - finish
+    result = finish - start
 
-    print 'Result:\t {} - {} = {}'.format(start, finish, result)
+    print 'Result:\t {} - {} = {}'.format(finish, start, result)
 
 
 if __name__ == '__main__':

@@ -62,28 +62,21 @@ def main():
     for line in f:
         i += 1
         msg = 'Line {}: {}\t'.format(i, line)
-        
-        ## First, check for the prohibited characters
-        if not(re.search('ab|cd|pq|xy', line)):
-            msg = msg + 'PRB !\t'
-            
-            ## Then, check for at least on set of double letters
-            if (re.search('(.)\\1', line)):
-                msg = msg + 'DBL !\t'
-                
-                ## Finally, check for at least 3 vowels
-                if (re.search('[aeiou].*[aeiou].*[aeiou].*', line)):
-                    msg = msg + 'VWL !\t'
-                    nice += 1
-                else:
-                    msg = msg + 'VWL x\t'
-                    naughty +=1
+
+        ## First, check for a pair of letters in a trio
+        if (re.search('(.).\\1', line)):
+            msg = msg + 'DBL !\t'
+
+            ## Then, check for a pair of non-overlapping pair of repeating letters
+            if (re.search('(..).*\\1', line)):
+                msg = msg + 'PR !\t'
+                nice += 1
             else:
-                msg = msg + 'DBL x\t'
+                msg = msg + 'PR x\t'
                 naughty +=1
         else:
-                msg = msg + 'PRB x\t'
-                naughty +=1
+            msg = msg + 'DBL x\t'
+            naughty +=1
 
         print msg
 

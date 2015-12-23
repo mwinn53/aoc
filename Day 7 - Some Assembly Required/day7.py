@@ -56,8 +56,6 @@
 
 import re
 
-
-
 #############################################################################
 def parseFile(fname):
 
@@ -125,7 +123,7 @@ def recurList(circuit, result):
 
         # Recur if operand1 is not a value
            lookup = dictionary.get(row[1]) 
-           if lookup:
+           if lookup != None:
                op1 = lookup
                print '\t OP1 -- FOUND {} : {} in dictionary...'.format(row[1], lookup)
 
@@ -140,7 +138,7 @@ def recurList(circuit, result):
         # Recur if operand2 (if required) is not a value 
            if row[2] != None:
                lookup = dictionary.get(row[2]) 
-               if lookup:
+               if lookup != None:
                    op2 = lookup
                    print '\t OP2 -- FOUND {} : {} in dictionary...'.format(row[2], lookup)
 
@@ -155,7 +153,7 @@ def recurList(circuit, result):
                    
         # Base case: result can be evaluated
            result = evaluate([row[0], op1, op2])
-           print '\t EVALUATED {} {} {} -> {}'.format(row[0], op1, op2, result)
+           print '\t EVALUATED {} {} {} -> {} ({})'.format(row[0], op1, op2, result, row[3])
 
            dictionary[row[3]] = result
            # print '\t DICTIONARY {}'.format(dictionary)
@@ -200,6 +198,12 @@ def main():
     global dictionary
 
     dictionary = {}
+
+    # Preprocess the <circuit> variable by finding the STO functions, adding them to dictionary{}, and removing
+    # them from the list (??)
+    for row in circuit:
+        if (row[0] == "sto") and (isinstance(row[1], int)):
+            dictionary[row[3]] = row[1]
 
     recurList(circuit, result)
 
